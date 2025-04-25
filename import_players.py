@@ -159,12 +159,21 @@ def insert_player_data(tx, player):
         title = award.get("title")
         years = award.get("years", [])
         clubs = award.get("clubs", [])
-        for year, club in zip(years, clubs):
-            tx.run("""
-                MERGE (p:Player {name: $name})
-                MERGE (a:Award {title: $title, year: $year, club: $club})
-                MERGE (p)-[:WON]->(a)
-            """, name=name, title=title, year=year, club=club)
+
+        if clubs:
+            for year, club in zip(years, clubs):
+                tx.run("""
+                    MERGE (p:Player {name: $name})
+                    MERGE (a:Award {title: $title, year: $year, club: $club})
+                    MERGE (p)-[:WON]->(a)
+                """, name=name, title=title, year=year, club=club)
+        else:
+            for year in years:
+                tx.run("""
+                    MERGE (p:Player {name: $name})
+                    MERGE (a:Award {title: $title, year: $year})
+                    MERGE (p)-[:WON]->(a)
+                """, name=name, title=title, year=year)
 
 # --- Połączenie i import ---
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))

@@ -307,34 +307,38 @@ def get_player_awards(player_id):
     awards = []
     current_award = None
 
-    for row in rows:
-        # Jeśli wiersz to nagłówek nowej nagrody (klasa bg_Sturm)
-        if "bg_Sturm" in row.get("class", []):
-            award_name = row.get_text(strip=True)
-            award_name = re.sub(r'^\d+x\s+', '', award_name)  # usuń "3x "
+    try:
+        for row in rows:
+            # Jeśli wiersz to nagłówek nowej nagrody (klasa bg_Sturm)
+            if "bg_Sturm" in row.get("class", []):
+                award_name = row.get_text(strip=True)
+                award_name = re.sub(r'^\d+x\s+', '', award_name)  # usuń "3x "
 
-            current_award = {
-                "title": award_name,
-                "years": [],
-                "clubs": []
-            }
-            awards.append(current_award)
-        else:
-            # Jeśli to wiersz z sezonem i opcjonalnie klubem
-            tds = row.find_all("td")
-            if len(tds) == 0 or current_award is None:
-                continue
+                current_award = {
+                    "title": award_name,
+                    "years": [],
+                    "clubs": []
+                }
+                awards.append(current_award)
+            else:
+                # Jeśli to wiersz z sezonem i opcjonalnie klubem
+                tds = row.find_all("td")
+                if len(tds) == 0 or current_award is None:
+                    continue
 
-            # Rok/sezon zawsze jest w pierwszej kolumnie
-            rok = tds[0].get_text(strip=True)
-            # Klub, jeśli obecny, jest w ostatniej kolumnie
-            klub = tds[-1].get_text(strip=True) if len(tds) > 2 else None
-            klub = re.sub(r'\s*-\s*\d+\s+[Gg]oals$', '', klub)  # usuń "- 4 Goals" lub "- 10 goals"
+                # Rok/sezon zawsze jest w pierwszej kolumnie
+                rok = tds[0].get_text(strip=True)
+                # Klub, jeśli obecny, jest w ostatniej kolumnie
+                klub = tds[-1].get_text(strip=True) if len(tds) > 2 else None
+                if klub:
+                    klub = re.sub(r'\s*-\s*\d+\s+[Gg]oals$', '', klub)  # usuń "- 4 Goals" lub "- 10 goals"
+                    current_award["clubs"].append(klub)
 
-            # Dodajemy dane do bieżącej nagrody
-            current_award["years"].append(rok)
-            if klub:
-                current_award["clubs"].append(klub)
+                # Dodajemy dane do bieżącej nagrody
+                current_award["years"].append(rok)
+
+    except ValueError as e:
+        print(f"Wystąpił wyjątek: {e}")
 
     return awards
 
@@ -410,6 +414,7 @@ def scrape_and_save_players_to_json(csv_path: str, output_path: str, limit: int 
             awards = get_player_awards(player_id)
         except:
             awards = []
+            print("Nie pobrano nagród gracza", full_name)
 
         # Zbuduj strukturę danych
         player_record = {

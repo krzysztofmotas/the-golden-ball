@@ -393,7 +393,91 @@
                 "transfer_fee": "free transfer"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "Conference League winner",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "Euro participant",
+                "years": [
+                    "2024",
+                    "2021"
+                ],
+                "clubs": [
+                    "England",
+                    "England"
+                ]
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2022"
+                ],
+                "clubs": [
+                    "England"
+                ]
+            },
+            {
+                "title": "English Super Cup winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Arsenal FC"
+                ]
+            },
+            {
+                "title": "Euro runner-up",
+                "years": [
+                    "2024",
+                    "2021"
+                ],
+                "clubs": [
+                    "England",
+                    "England"
+                ]
+            },
+            {
+                "title": "Champions League participant",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Arsenal FC"
+                ]
+            },
+            {
+                "title": "Europa League participant",
+                "years": [
+                    "21/22"
+                ],
+                "clubs": [
+                    "West Ham United"
+                ]
+            },
+            {
+                "title": "Conference League participant",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "West Ham United"
+                ]
+            },
+            {
+                "title": "Player of the Year",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "West Ham United"
+                ]
+            }
+        ],
         "playing_time_mp": 38,
         "playing_time_starts": 37,
         "playing_time_min": 3225,
@@ -1469,7 +1553,155 @@
                 "transfer_fee": "€1.50m"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "World Cup winner",
+                "years": [
+                    "2022"
+                ],
+                "clubs": [
+                    "Argentina"
+                ]
+            },
+            {
+                "title": "Copa América winner",
+                "years": [
+                    "23/24",
+                    "20/21"
+                ],
+                "clubs": [
+                    "Argentina",
+                    "Argentina"
+                ]
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2022"
+                ],
+                "clubs": [
+                    "Argentina"
+                ]
+            },
+            {
+                "title": "Copa América participant",
+                "years": [
+                    "2021"
+                ],
+                "clubs": [
+                    "Argentina"
+                ]
+            },
+            {
+                "title": "English FA Cup winner",
+                "years": [
+                    "2020",
+                    "2017",
+                    "2015"
+                ],
+                "clubs": [
+                    "Arsenal FC",
+                    "Arsenal FC",
+                    "Arsenal FC"
+                ]
+            },
+            {
+                "title": "English Super Cup winner",
+                "years": [
+                    "20/21",
+                    "15/16",
+                    "14/15"
+                ],
+                "clubs": [
+                    "Arsenal FC",
+                    "Arsenal FC",
+                    "Arsenal FC"
+                ]
+            },
+            {
+                "title": "CONMEBOL-UEFA Cup of Champions winner",
+                "years": [
+                    "21/22"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "Goalkeeper of the season",
+                "years": [
+                    "21/22"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "Under-17 World Cup participant",
+                "years": [
+                    "2010",
+                    "2009"
+                ],
+                "clubs": [
+                    "Argentina U17",
+                    "Argentina U17"
+                ]
+            },
+            {
+                "title": "Under-20 World Cup participant",
+                "years": [
+                    "2011",
+                    "2011"
+                ],
+                "clubs": [
+                    "Argentina U20",
+                    "Argentina U20"
+                ]
+            },
+            {
+                "title": "World's Best Goalkeeper",
+                "years": [
+                    "2024",
+                    "2024",
+                    "2023"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "Champions League participant",
+                "years": [
+                    "14/15"
+                ],
+                "clubs": [
+                    "Arsenal FC"
+                ]
+            },
+            {
+                "title": "Europa League participant",
+                "years": [
+                    "19/20",
+                    "18/19"
+                ],
+                "clubs": [
+                    "Arsenal FC",
+                    "Arsenal FC"
+                ]
+            },
+            {
+                "title": "Conference League participant",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Aston Villa"
+                ]
+            },
+            {
+                "title": "Europa League runner-up",
+                "years": [
+                    "18/19"
+                ],
+                "clubs": [
+                    "Arsenal FC"
+                ]
+            }
+        ],
         "playing_time_mp": 34,
         "playing_time_starts": 34,
         "playing_time_min": 3015,
@@ -1707,8 +1939,7 @@
             "player_agent": "ROOF",
             "current_club": " Atalanta BC",
             "joined": "Aug 4, 2022",
-            "contract_expires": "Jun 30, 2026",
-            "contract_option": "club option 1 year",
+            "contract_expires": "Jun 30, 2027",
             "outfitter": "Nike"
         },
         "transfermarkt_transfers": [
@@ -1718,7 +1949,7 @@
                 "old_club": "RB Leipzig",
                 "new_club": "Atalanta BC",
                 "market_value": "€10.00m",
-                "transfer_fee": "€9.35m"
+                "transfer_fee": "€10.85m"
             },
             {
                 "season": "21/22",
@@ -3269,7 +3500,129 @@
                 "transfer_fee": "-"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "Champions League winner",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Euro participant",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "England"
+                ]
+            },
+            {
+                "title": "English Champion",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22"
+                ],
+                "clubs": [
+                    "Manchester City",
+                    "Manchester City",
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "English FA Cup winner",
+                "years": [
+                    "2023"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "English League Cup winner",
+                "years": [
+                    "2021"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Euro runner-up",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "England"
+                ]
+            },
+            {
+                "title": "U21 Premier League champion",
+                "years": [
+                    "21/22",
+                    "20/21"
+                ],
+                "clubs": [
+                    "Manchester City U23",
+                    "Manchester City U23"
+                ]
+            },
+            {
+                "title": "European Under-21 participant",
+                "years": [
+                    "2023"
+                ],
+                "clubs": [
+                    "England U21"
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Euro Under-17 participant",
+                "years": [
+                    "2019"
+                ],
+                "clubs": [
+                    "England U17"
+                ]
+            },
+            {
+                "title": "English FA Youth Cup winner",
+                "years": [
+                    "2020"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "English Youth League winner (U18)",
+                "years": [
+                    "19/20"
+                ],
+                "clubs": [
+                    "Manchester City U18"
+                ]
+            },
+            {
+                "title": "European Under-21 champion",
+                "years": [
+                    "2023"
+                ],
+                "clubs": [
+                    "England U21"
+                ]
+            }
+        ],
         "playing_time_mp": 33,
         "playing_time_starts": 29,
         "playing_time_min": 2607,
@@ -3652,9 +4005,11 @@
             {
                 "title": "Champions League runner-up",
                 "years": [
+                    "23/24",
                     "12/13"
                 ],
                 "clubs": [
+                    "Borussia Dortmund",
                     "Borussia Dortmund"
                 ]
             },
@@ -4746,7 +5101,128 @@
                 "transfer_fee": "free transfer"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "World Cup winner",
+                "years": [
+                    "2022"
+                ],
+                "clubs": [
+                    "Argentina"
+                ]
+            },
+            {
+                "title": "Copa América winner",
+                "years": [
+                    "23/24",
+                    "20/21"
+                ],
+                "clubs": [
+                    "Argentina",
+                    "Argentina"
+                ]
+            },
+            {
+                "title": "Italian champion",
+                "years": [
+                    "23/24",
+                    "20/21"
+                ],
+                "clubs": [
+                    "Inter Milan",
+                    "Inter Milan"
+                ]
+            },
+            {
+                "title": "Italian cup winner",
+                "years": [
+                    "22/23",
+                    "21/22"
+                ],
+                "clubs": [
+                    "Inter Milan",
+                    "Inter Milan"
+                ]
+            },
+            {
+                "title": "Italian Super Cup winner",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22"
+                ],
+                "clubs": [
+                    "Inter Milan",
+                    "Inter Milan",
+                    "Inter Milan"
+                ]
+            },
+            {
+                "title": "CONMEBOL-UEFA Cup of Champions winner",
+                "years": [
+                    "21/22"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "Champions League runner-up",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Inter Milan"
+                ]
+            },
+            {
+                "title": "Footballer of the Year",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "Italy"
+                ]
+            },
+            {
+                "title": "Copa América third place",
+                "years": [
+                    "2019"
+                ],
+                "clubs": [
+                    "Argentina"
+                ]
+            },
+            {
+                "title": "Europa League runner-up",
+                "years": [
+                    "19/20"
+                ],
+                "clubs": [
+                    "Inter Milan"
+                ]
+            },
+            {
+                "title": "Top goal scorer",
+                "years": [
+                    "23/24",
+                    "23/24",
+                    "16/17"
+                ],
+                "clubs": [
+                    "Serie A",
+                    "Copa América 2024",
+                    "U-20 South American Championship 2017"
+                ]
+            },
+            {
+                "title": "Player of the Year",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Inter Milan"
+                ]
+            }
+        ],
         "playing_time_mp": 33,
         "playing_time_starts": 31,
         "playing_time_min": 2656,
@@ -6261,7 +6737,251 @@
                 "transfer_fee": "-"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "UEFA Best Player in Europe",
+                "years": [
+                    "2023"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Champions League winner",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Golden Boot winner (Europe)",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "English Champion",
+                "years": [
+                    "23/24",
+                    "22/23"
+                ],
+                "clubs": [
+                    "Manchester City",
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "German cup winner",
+                "years": [
+                    "20/21"
+                ],
+                "clubs": [
+                    "Borussia Dortmund"
+                ]
+            },
+            {
+                "title": "English FA Cup winner",
+                "years": [
+                    "2023"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "English Super Cup winner",
+                "years": [
+                    "24/25"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Best young player",
+                "years": [
+                    "2020",
+                    "2018"
+                ],
+                "clubs": [
+                    "Eliteserien"
+                ]
+            },
+            {
+                "title": "German Bundesliga runner-up",
+                "years": [
+                    "19/20"
+                ],
+                "clubs": [
+                    "Borussia Dortmund"
+                ]
+            },
+            {
+                "title": "Footballer of the Year",
+                "years": [
+                    "2024",
+                    "2023",
+                    "2023",
+                    "2022",
+                    "2021",
+                    "2020",
+                    "2019"
+                ],
+                "clubs": [
+                    "Norway",
+                    "England",
+                    "Norway",
+                    "Norway",
+                    "Norway",
+                    "Norway",
+                    "Austria"
+                ]
+            },
+            {
+                "title": "Striker of the Year",
+                "years": [
+                    "21/22",
+                    "20/21"
+                ],
+                "clubs": [
+                    "Borussia Dortmund",
+                    "Borussia Dortmund"
+                ]
+            },
+            {
+                "title": "European Under-19 participant",
+                "years": [
+                    "2018"
+                ],
+                "clubs": [
+                    "Norway U19"
+                ]
+            },
+            {
+                "title": "Under-20 World Cup participant",
+                "years": [
+                    "2019"
+                ],
+                "clubs": [
+                    "Norway U20"
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Euro Under-17 participant",
+                "years": [
+                    "2017"
+                ],
+                "clubs": [
+                    "Norway U17"
+                ]
+            },
+            {
+                "title": "Austrian champion",
+                "years": [
+                    "19/20",
+                    "18/19"
+                ],
+                "clubs": [
+                    "Red Bull Salzburg",
+                    "Red Bull Salzburg"
+                ]
+            },
+            {
+                "title": "Austrian cup winner",
+                "years": [
+                    "19/20",
+                    "18/19"
+                ],
+                "clubs": [
+                    "Red Bull Salzburg",
+                    "Red Bull Salzburg"
+                ]
+            },
+            {
+                "title": "Champions League participant",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "20/21",
+                    "19/20"
+                ],
+                "clubs": [
+                    "Manchester City",
+                    "Manchester City",
+                    "Borussia Dortmund",
+                    "Borussia Dortmund",
+                    "Red Bull Salzburg"
+                ]
+            },
+            {
+                "title": "Europa League participant",
+                "years": [
+                    "18/19"
+                ],
+                "clubs": [
+                    "Red Bull Salzburg"
+                ]
+            },
+            {
+                "title": "Top goal scorer",
+                "years": [
+                    "24/25",
+                    "23/24",
+                    "22/23",
+                    "22/23",
+                    "22/23",
+                    "20/21",
+                    "20/21",
+                    "18/19"
+                ],
+                "clubs": [
+                    "UEFA Nations League B",
+                    "Premier League",
+                    "Premier League",
+                    "UEFA Champions League",
+                    "UEFA Nations League B",
+                    "UEFA Nations League B",
+                    "UEFA Champions League",
+                    "U-20 World Cup 2019"
+                ]
+            },
+            {
+                "title": "TM-Player of the season",
+                "years": [
+                    "2023",
+                    "2020"
+                ],
+                "clubs": [
+                    "England",
+                    "Austria"
+                ]
+            },
+            {
+                "title": "Player of the Year",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            }
+        ],
         "playing_time_mp": 31,
         "playing_time_starts": 29,
         "playing_time_min": 2552,
@@ -6483,7 +7203,172 @@
                 "transfer_fee": "-"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "Champions League winner",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "FIFA Club World Cup winner",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Euro participant",
+                "years": [
+                    "2024",
+                    "2021"
+                ],
+                "clubs": [
+                    "England",
+                    "England"
+                ]
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2022"
+                ],
+                "clubs": [
+                    "England"
+                ]
+            },
+            {
+                "title": "English Champion",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "20/21",
+                    "18/19",
+                    "17/18"
+                ],
+                "clubs": [
+                    "Manchester City",
+                    "Manchester City",
+                    "Manchester City",
+                    "Manchester City",
+                    "Manchester City",
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "English FA Cup winner",
+                "years": [
+                    "2023",
+                    "2019"
+                ],
+                "clubs": [
+                    "Manchester City",
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "English League Cup winner",
+                "years": [
+                    "2021",
+                    "2020",
+                    "2019",
+                    "2018"
+                ],
+                "clubs": [
+                    "Manchester City",
+                    "Manchester City",
+                    "Manchester City",
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "English Super Cup winner",
+                "years": [
+                    "19/20",
+                    "18/19"
+                ],
+                "clubs": [
+                    "Manchester City",
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Euro runner-up",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "England"
+                ]
+            },
+            {
+                "title": "European Under-21 participant",
+                "years": [
+                    "2019"
+                ],
+                "clubs": [
+                    "England U21"
+                ]
+            },
+            {
+                "title": "Under-17 World Cup participant",
+                "years": [
+                    "2017"
+                ],
+                "clubs": [
+                    "England U17"
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Euro Under-17 participant",
+                "years": [
+                    "2017"
+                ],
+                "clubs": [
+                    "England U17"
+                ]
+            },
+            {
+                "title": "Under-17 World Cup champion",
+                "years": [
+                    "2017"
+                ],
+                "clubs": [
+                    "England U17"
+                ]
+            },
+            {
+                "title": "TM-Player of the season",
+                "years": [
+                    "2024"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "Player of the Year",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Premier League"
+                ]
+            }
+        ],
         "playing_time_mp": 35,
         "playing_time_starts": 33,
         "playing_time_min": 2857,
@@ -6747,7 +7632,184 @@
                 "transfer_fee": "€1.50m"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "European champion",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "Spain"
+                ]
+            },
+            {
+                "title": "Winner Ballon d'Or",
+                "years": [
+                    "2024"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "Champions League winner",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "FIFA Club World Cup winner",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Euro participant",
+                "years": [
+                    "2024",
+                    "2021"
+                ],
+                "clubs": [
+                    "Spain",
+                    "Spain"
+                ]
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2022"
+                ],
+                "clubs": [
+                    "Spain"
+                ]
+            },
+            {
+                "title": "English Champion",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "20/21"
+                ],
+                "clubs": [
+                    "Manchester City",
+                    "Manchester City",
+                    "Manchester City",
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "English FA Cup winner",
+                "years": [
+                    "2023"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "English League Cup winner",
+                "years": [
+                    "2021",
+                    "2020"
+                ],
+                "clubs": [
+                    "Manchester City",
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "English Super Cup winner",
+                "years": [
+                    "19/20"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Winner UEFA Nations League",
+                "years": [
+                    "2023"
+                ],
+                "clubs": [
+                    "UEFA Nations League Finals"
+                ]
+            },
+            {
+                "title": "Champions League runner-up",
+                "years": [
+                    "20/21"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            },
+            {
+                "title": "Player of the Tournament",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "22/23"
+                ],
+                "clubs": [
+                    "EURO 2024",
+                    "UEFA Nations League Finals",
+                    "UEFA Champions League"
+                ]
+            },
+            {
+                "title": "European Under-19 participant",
+                "years": [
+                    "2015"
+                ],
+                "clubs": [
+                    "Spain U19"
+                ]
+            },
+            {
+                "title": "European Under-21 participant",
+                "years": [
+                    "2017"
+                ],
+                "clubs": [
+                    "Spain U21"
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "years": [
+                    "23/24",
+                    "18/19"
+                ],
+                "clubs": [
+                    "Manchester City",
+                    "Atlético de Madrid"
+                ]
+            },
+            {
+                "title": "European Under-19 champion",
+                "years": [
+                    "2015"
+                ],
+                "clubs": [
+                    "Spain U19"
+                ]
+            },
+            {
+                "title": "Player of the Year",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Manchester City"
+                ]
+            }
+        ],
         "playing_time_mp": 34,
         "playing_time_starts": 34,
         "playing_time_min": 2931,
@@ -7496,7 +8558,271 @@
                 "transfer_fee": "free transfer"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "World Cup winner",
+                "years": [
+                    "2018"
+                ],
+                "clubs": [
+                    "France"
+                ]
+            },
+            {
+                "title": "FIFA Intercontinental Cup Winner",
+                "years": [
+                    "24/25"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "Euro participant",
+                "years": [
+                    "2024",
+                    "2021"
+                ],
+                "clubs": [
+                    "France",
+                    "France"
+                ]
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2022",
+                    "2018"
+                ],
+                "clubs": [
+                    "France",
+                    "France"
+                ]
+            },
+            {
+                "title": "French champion",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "19/20",
+                    "18/19",
+                    "17/18",
+                    "16/17"
+                ],
+                "clubs": [
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "AS Monaco"
+                ]
+            },
+            {
+                "title": "French cup winner",
+                "years": [
+                    "23/24",
+                    "20/21",
+                    "19/20",
+                    "17/18"
+                ],
+                "clubs": [
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain"
+                ]
+            },
+            {
+                "title": "French league cup winner",
+                "years": [
+                    "19/20",
+                    "17/18"
+                ],
+                "clubs": [
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain"
+                ]
+            },
+            {
+                "title": "French Super Cup winner",
+                "years": [
+                    "23/24",
+                    "20/21",
+                    "19/20"
+                ],
+                "clubs": [
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain"
+                ]
+            },
+            {
+                "title": "Winner UEFA Nations League",
+                "years": [
+                    "2021"
+                ],
+                "clubs": [
+                    "UEFA Nations League Finals"
+                ]
+            },
+            {
+                "title": "Best young player",
+                "years": [
+                    "2019",
+                    "2018",
+                    "2018",
+                    "2017"
+                ],
+                "clubs": [
+                    "Ligue 1",
+                    "Ligue 1",
+                    "World Cup 2018",
+                    "Ligue 1"
+                ]
+            },
+            {
+                "title": "World Cup runner-up",
+                "years": [
+                    "2022"
+                ],
+                "clubs": [
+                    "France"
+                ]
+            },
+            {
+                "title": "Champions League runner-up",
+                "years": [
+                    "19/20"
+                ],
+                "clubs": [
+                    "Paris Saint-Germain"
+                ]
+            },
+            {
+                "title": "French Youth Cup winner",
+                "years": [
+                    "15/16"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "Footballer of the Year",
+                "years": [
+                    "2022",
+                    "2019",
+                    "2018"
+                ],
+                "clubs": [
+                    "France",
+                    "France",
+                    "France"
+                ]
+            },
+            {
+                "title": "European Under-19 participant",
+                "years": [
+                    "2016"
+                ],
+                "clubs": [
+                    "France U19"
+                ]
+            },
+            {
+                "title": "Best assist provider",
+                "years": [
+                    "21/22"
+                ],
+                "clubs": [
+                    "Paris Saint-Germain"
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "years": [
+                    "24/25"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "European Under-19 champion",
+                "years": [
+                    "2016"
+                ],
+                "clubs": [
+                    "France U19"
+                ]
+            },
+            {
+                "title": "Top goal scorer",
+                "years": [
+                    "23/24",
+                    "23/24",
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "21/22",
+                    "21/22",
+                    "20/21",
+                    "20/21",
+                    "20/21",
+                    "19/20",
+                    "18/19",
+                    "15/16"
+                ],
+                "clubs": [
+                    "Ligue 1",
+                    "Coupe de France",
+                    "UEFA Champions League",
+                    "Ligue 1",
+                    "Ligue 1",
+                    "Coupe de France",
+                    "2022 World Cup",
+                    "Ligue 1",
+                    "Coupe de France",
+                    "UEFA Nations League Finals",
+                    "Ligue 1",
+                    "Ligue 1",
+                    "Coupe Gambardella"
+                ]
+            },
+            {
+                "title": "Player of the Year",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "20/21",
+                    "18/19"
+                ],
+                "clubs": [
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain",
+                    "Paris Saint-Germain"
+                ]
+            },
+            {
+                "title": "TM-Player of the season",
+                "years": [
+                    "2024",
+                    "2023",
+                    "2022",
+                    "2020",
+                    "2019"
+                ],
+                "clubs": [
+                    "France",
+                    "France",
+                    "France",
+                    "France",
+                    "France"
+                ]
+            }
+        ],
         "playing_time_mp": 29,
         "playing_time_starts": 24,
         "playing_time_min": 2158,
@@ -8201,7 +9527,216 @@
                 "transfer_fee": "free transfer"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "European champion",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "Spain"
+                ]
+            },
+            {
+                "title": "Euro participant",
+                "years": [
+                    "2024",
+                    "2021"
+                ],
+                "clubs": [
+                    "Spain",
+                    "Spain"
+                ]
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2022"
+                ],
+                "clubs": [
+                    "Spain"
+                ]
+            },
+            {
+                "title": "Olympics participant",
+                "years": [
+                    "20/21"
+                ],
+                "clubs": [
+                    "Spain Olympic Team"
+                ]
+            },
+            {
+                "title": "German cup winner",
+                "years": [
+                    "22/23",
+                    "21/22"
+                ],
+                "clubs": [
+                    "RB Leipzig",
+                    "RB Leipzig"
+                ]
+            },
+            {
+                "title": "German Super Cup winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "RB Leipzig"
+                ]
+            },
+            {
+                "title": "German cup runner-up",
+                "years": [
+                    "20/21"
+                ],
+                "clubs": [
+                    "RB Leipzig"
+                ]
+            },
+            {
+                "title": "Winner UEFA Nations League",
+                "years": [
+                    "2023"
+                ],
+                "clubs": [
+                    "UEFA Nations League Finals"
+                ]
+            },
+            {
+                "title": "Best young player",
+                "years": [
+                    "2019"
+                ],
+                "clubs": [
+                    "SuperSport HNL"
+                ]
+            },
+            {
+                "title": "European Under-21 participant",
+                "years": [
+                    "2019"
+                ],
+                "clubs": [
+                    "Spain U21"
+                ]
+            },
+            {
+                "title": "Euro Under-17 participant",
+                "years": [
+                    "2015"
+                ],
+                "clubs": [
+                    "Spain U17"
+                ]
+            },
+            {
+                "title": "Croatian champion",
+                "years": [
+                    "19/20",
+                    "18/19",
+                    "17/18",
+                    "15/16",
+                    "14/15"
+                ],
+                "clubs": [
+                    "GNK Dinamo Zagreb",
+                    "GNK Dinamo Zagreb",
+                    "GNK Dinamo Zagreb",
+                    "GNK Dinamo Zagreb",
+                    "GNK Dinamo Zagreb"
+                ]
+            },
+            {
+                "title": "Croatian cup winner",
+                "years": [
+                    "17/18",
+                    "15/16",
+                    "14/15"
+                ],
+                "clubs": [
+                    "GNK Dinamo Zagreb",
+                    "GNK Dinamo Zagreb",
+                    "GNK Dinamo Zagreb"
+                ]
+            },
+            {
+                "title": "Spanish Super Cup winner",
+                "years": [
+                    "24/25"
+                ],
+                "clubs": [
+                    "FC Barcelona"
+                ]
+            },
+            {
+                "title": "Second place at the Olympic Games",
+                "years": [
+                    "2021"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "European Under-21 champion",
+                "years": [
+                    "2019"
+                ],
+                "clubs": [
+                    "Spain U21"
+                ]
+            },
+            {
+                "title": "Champions League participant",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "20/21",
+                    "19/20",
+                    "19/20"
+                ],
+                "clubs": [
+                    "RB Leipzig",
+                    "RB Leipzig",
+                    "RB Leipzig",
+                    "RB Leipzig",
+                    "RB Leipzig",
+                    "GNK Dinamo Zagreb"
+                ]
+            },
+            {
+                "title": "Europa League participant",
+                "years": [
+                    "21/22",
+                    "18/19"
+                ],
+                "clubs": [
+                    "RB Leipzig",
+                    "GNK Dinamo Zagreb"
+                ]
+            },
+            {
+                "title": "Player of the Year",
+                "years": [
+                    "18/19",
+                    "17/18"
+                ],
+                "clubs": [
+                    "GNK Dinamo Zagreb",
+                    "GNK Dinamo Zagreb"
+                ]
+            },
+            {
+                "title": "Top goal scorer",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "EURO 2024"
+                ]
+            }
+        ],
         "playing_time_mp": 21,
         "playing_time_starts": 17,
         "playing_time_min": 1449,
@@ -8470,7 +10005,7 @@
                 "old_club": "B. Dortmund U19",
                 "new_club": "Stuttgart U19",
                 "market_value": "-",
-                "transfer_fee": "free transfer"
+                "transfer_fee": "€38k"
             },
             {
                 "season": "10/11",
@@ -8513,7 +10048,209 @@
                 "transfer_fee": "free transfer"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "Champions League winner",
+                "years": [
+                    "23/24",
+                    "20/21"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Chelsea FC"
+                ]
+            },
+            {
+                "title": "FIFA Club World Cup winner",
+                "years": [
+                    "2023",
+                    "2022"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Chelsea FC"
+                ]
+            },
+            {
+                "title": "Europa League winner",
+                "years": [
+                    "18/19"
+                ],
+                "clubs": [
+                    "Chelsea FC"
+                ]
+            },
+            {
+                "title": "FIFA Intercontinental Cup Winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2022",
+                    "2018"
+                ],
+                "clubs": [
+                    "Germany",
+                    "Germany"
+                ]
+            },
+            {
+                "title": "Euro participant",
+                "years": [
+                    "2024",
+                    "2021"
+                ],
+                "clubs": [
+                    "Germany",
+                    "Germany"
+                ]
+            },
+            {
+                "title": "Spanish champion",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "English FA Cup winner",
+                "years": [
+                    "2018"
+                ],
+                "clubs": [
+                    "Chelsea FC"
+                ]
+            },
+            {
+                "title": "German cup runner-up",
+                "years": [
+                    "12/13"
+                ],
+                "clubs": [
+                    "VfB Stuttgart"
+                ]
+            },
+            {
+                "title": "Confederations Cup participant",
+                "years": [
+                    "2017"
+                ],
+                "clubs": [
+                    "Germany"
+                ]
+            },
+            {
+                "title": "European Under-21 participant",
+                "years": [
+                    "2013"
+                ],
+                "clubs": [
+                    "Germany U21"
+                ]
+            },
+            {
+                "title": "Fritz Walter Golden medalist",
+                "years": [
+                    "2012"
+                ],
+                "clubs": [
+                    "VfB Stuttgart U19"
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "years": [
+                    "24/25",
+                    "22/23",
+                    "21/22"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Chelsea FC"
+                ]
+            },
+            {
+                "title": "Confederations Cup winner",
+                "years": [
+                    "2017"
+                ],
+                "clubs": [
+                    "Germany"
+                ]
+            },
+            {
+                "title": "Spanish cup winner",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Spanish Super Cup winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Champions League participant",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "20/21",
+                    "19/20",
+                    "17/18",
+                    "15/16"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Chelsea FC",
+                    "Chelsea FC",
+                    "Chelsea FC",
+                    "Chelsea FC",
+                    "AS Roma"
+                ]
+            },
+            {
+                "title": "Europa League participant",
+                "years": [
+                    "18/19",
+                    "16/17",
+                    "13/14",
+                    "12/13"
+                ],
+                "clubs": [
+                    "Chelsea FC",
+                    "AS Roma",
+                    "VfB Stuttgart",
+                    "VfB Stuttgart"
+                ]
+            },
+            {
+                "title": "FIFA Club World Cup participant",
+                "years": [
+                    "2023",
+                    "2022"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Chelsea FC"
+                ]
+            }
+        ],
         "playing_time_mp": 33,
         "playing_time_starts": 30,
         "playing_time_min": 2709,
@@ -8760,7 +10497,249 @@
                 "transfer_fee": "-"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "European champion",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "Spain"
+                ]
+            },
+            {
+                "title": "Champions League winner",
+                "years": [
+                    "23/24",
+                    "21/22",
+                    "17/18",
+                    "16/17",
+                    "15/16",
+                    "13/14"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "FIFA Club World Cup winner",
+                "years": [
+                    "2023",
+                    "2019",
+                    "2018",
+                    "2017",
+                    "2015"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "FIFA Intercontinental Cup Winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2022",
+                    "2018"
+                ],
+                "clubs": [
+                    "Spain",
+                    "Spain"
+                ]
+            },
+            {
+                "title": "Euro participant",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "Spain"
+                ]
+            },
+            {
+                "title": "Spanish champion",
+                "years": [
+                    "23/24",
+                    "21/22",
+                    "19/20",
+                    "16/17"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Winner UEFA Nations League",
+                "years": [
+                    "2023"
+                ],
+                "clubs": [
+                    "UEFA Nations League Finals"
+                ]
+            },
+            {
+                "title": "Promotion to 2nd league",
+                "years": [
+                    "11/12"
+                ],
+                "clubs": [
+                    "Real Madrid Castilla"
+                ]
+            },
+            {
+                "title": "European Under-19 participant",
+                "years": [
+                    "2012"
+                ],
+                "clubs": [
+                    "Spain U19"
+                ]
+            },
+            {
+                "title": "European Under-21 participant",
+                "years": [
+                    "2013"
+                ],
+                "clubs": [
+                    "Spain U21"
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "years": [
+                    "24/25",
+                    "22/23",
+                    "17/18",
+                    "16/17",
+                    "14/15"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Spanish cup winner",
+                "years": [
+                    "22/23",
+                    "13/14"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Spanish Super Cup winner",
+                "years": [
+                    "23/24",
+                    "21/22",
+                    "19/20",
+                    "17/18"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "European Under-19 champion",
+                "years": [
+                    "2012",
+                    "2011"
+                ],
+                "clubs": [
+                    "Spain U19",
+                    "Spain U19"
+                ]
+            },
+            {
+                "title": "European Under-21 champion",
+                "years": [
+                    "2013"
+                ],
+                "clubs": [
+                    "Spain U21"
+                ]
+            },
+            {
+                "title": "Champions League participant",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "20/21",
+                    "19/20",
+                    "18/19",
+                    "17/18",
+                    "16/17",
+                    "15/16",
+                    "14/15",
+                    "13/14"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "FIFA Club World Cup participant",
+                "years": [
+                    "2023",
+                    "2019",
+                    "2018",
+                    "2017",
+                    "2015"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Europa League participant",
+                "years": [
+                    "12/13"
+                ],
+                "clubs": [
+                    "Bayer 04 Leverkusen"
+                ]
+            }
+        ],
         "rank": 4,
         "points": 550
     },
@@ -8825,7 +10804,151 @@
                 "transfer_fee": "-"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "Champions League winner",
+                "years": [
+                    "23/24",
+                    "21/22"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "FIFA Club World Cup winner",
+                "years": [
+                    "2023",
+                    "2019"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "FIFA Intercontinental Cup Winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2022"
+                ],
+                "clubs": [
+                    "Uruguay"
+                ]
+            },
+            {
+                "title": "Copa América participant",
+                "years": [
+                    "2021",
+                    "2019"
+                ],
+                "clubs": [
+                    "Uruguay",
+                    "Uruguay"
+                ]
+            },
+            {
+                "title": "Spanish champion",
+                "years": [
+                    "23/24",
+                    "21/22",
+                    "19/20"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Under-20 World Cup participant",
+                "years": [
+                    "2017"
+                ],
+                "clubs": [
+                    "Uruguay U20"
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "years": [
+                    "24/25",
+                    "22/23"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Spanish cup winner",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Spanish Super Cup winner",
+                "years": [
+                    "23/24",
+                    "21/22",
+                    "19/20"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Uruguayan champion",
+                "years": [
+                    "15/16"
+                ],
+                "clubs": [
+                    "CA Peñarol"
+                ]
+            },
+            {
+                "title": "Champions League participant",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "20/21",
+                    "19/20",
+                    "18/19"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "FIFA Club World Cup participant",
+                "years": [
+                    "2023",
+                    "2019"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            }
+        ],
         "playing_time_mp": 37,
         "playing_time_starts": 33,
         "playing_time_min": 2904,
@@ -9055,7 +11178,137 @@
                 "transfer_fee": "-"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "Champions League winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "FIFA Intercontinental Cup Winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "Euro participant",
+                "years": [
+                    "2024",
+                    "2021"
+                ],
+                "clubs": [
+                    "England",
+                    "England"
+                ]
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2021"
+                ],
+                "clubs": [
+                    "England"
+                ]
+            },
+            {
+                "title": "Spanish champion",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "German cup winner",
+                "years": [
+                    "20/21"
+                ],
+                "clubs": [
+                    "Borussia Dortmund"
+                ]
+            },
+            {
+                "title": "Euro runner-up",
+                "years": [
+                    "2024",
+                    "2021"
+                ],
+                "clubs": [
+                    "England",
+                    "England"
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "years": [
+                    "24/25"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Spanish Super Cup winner",
+                "years": [
+                    "23/24"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Champions League participant",
+                "years": [
+                    "23/24",
+                    "22/23",
+                    "21/22",
+                    "21/22",
+                    "20/21"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Borussia Dortmund",
+                    "Borussia Dortmund",
+                    "Borussia Dortmund",
+                    "Borussia Dortmund"
+                ]
+            },
+            {
+                "title": "Europa League participant",
+                "years": [
+                    "21/22"
+                ],
+                "clubs": [
+                    "Borussia Dortmund"
+                ]
+            },
+            {
+                "title": "TM-Player of the season",
+                "years": [
+                    "2024",
+                    "2023"
+                ],
+                "clubs": [
+                    "Spain",
+                    "Germany"
+                ]
+            },
+            {
+                "title": "Player of the Year",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Borussia Dortmund"
+                ]
+            }
+        ],
         "playing_time_mp": 28,
         "playing_time_starts": 27,
         "playing_time_min": 2315,
@@ -9907,7 +12160,170 @@
                 "transfer_fee": "-"
             }
         ],
-        "transfermarkt_awards": [],
+        "transfermarkt_awards": [
+            {
+                "title": "The Best FIFA Men's Player",
+                "years": [
+                    "2024"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Champions League winner",
+                "years": [
+                    "23/24",
+                    "21/22"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "FIFA Club World Cup winner",
+                "years": [
+                    "2023",
+                    "2019"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "FIFA Intercontinental Cup Winner",
+                "years": [
+                    "24/25"
+                ],
+                "clubs": []
+            },
+            {
+                "title": "World Cup participant",
+                "years": [
+                    "2022"
+                ],
+                "clubs": [
+                    "Brazil"
+                ]
+            },
+            {
+                "title": "Copa América participant",
+                "years": [
+                    "2021"
+                ],
+                "clubs": [
+                    "Brazil"
+                ]
+            },
+            {
+                "title": "Spanish champion",
+                "years": [
+                    "23/24",
+                    "21/22",
+                    "19/20"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Player of the Tournament",
+                "years": [
+                    "24/25",
+                    "22/23",
+                    "16/17"
+                ],
+                "clubs": [
+                    "FIFA Intercontinental Cup",
+                    "FIFA Club World Cup",
+                    "U-17 South American Championship 2017"
+                ]
+            },
+            {
+                "title": "Uefa Supercup winner",
+                "years": [
+                    "24/25",
+                    "22/23"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Under-17 South American Championship winner",
+                "years": [
+                    "2017"
+                ],
+                "clubs": [
+                    "Brazil U17"
+                ]
+            },
+            {
+                "title": "Under-15 South American Championship winner",
+                "years": [
+                    "2015"
+                ],
+                "clubs": [
+                    "Brazil U15"
+                ]
+            },
+            {
+                "title": "Copa América runner-up",
+                "years": [
+                    "20/21"
+                ],
+                "clubs": [
+                    "Brazil"
+                ]
+            },
+            {
+                "title": "Spanish cup winner",
+                "years": [
+                    "22/23"
+                ],
+                "clubs": [
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Spanish Super Cup winner",
+                "years": [
+                    "23/24",
+                    "21/22",
+                    "19/20"
+                ],
+                "clubs": [
+                    "Real Madrid",
+                    "Real Madrid",
+                    "Real Madrid"
+                ]
+            },
+            {
+                "title": "Top goal scorer",
+                "years": [
+                    "23/24",
+                    "16/17"
+                ],
+                "clubs": [
+                    "Supercopa",
+                    "U-17 South American Championship 2017"
+                ]
+            },
+            {
+                "title": "TM-Player of the season",
+                "years": [
+                    "2023"
+                ],
+                "clubs": [
+                    "Spain"
+                ]
+            }
+        ],
         "playing_time_mp": 26,
         "playing_time_starts": 22,
         "playing_time_min": 1864,
