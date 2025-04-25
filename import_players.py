@@ -7,7 +7,7 @@ NEO4J_USER = "neo4j"
 NEO4J_PASSWORD = "the-golden-ball"
 
 # Wczytaj dane z JSON
-with open("players.json", "r", encoding="utf-8") as f:
+with open("players_with_stats.json", "r", encoding="utf-8") as f:
     players = json.load(f)
 
 def clear_database(tx):
@@ -16,26 +16,49 @@ def clear_database(tx):
 def insert_player_data(tx, player):
     name = player["player"]
     print(name)
+
     profile = player.get("transfermarkt_profile", {})
-    transfers = player.get("transfermarkt_transfers", [])
-    awards = player.get("transfermarkt_awards", [])
 
     # --- Zawodnik ---
-    tx.run("""
-        MERGE (p:Player {name: $name})
-        SET p.date_of_birth = $dob,
-            p.height = $height,
-            p.current_club = $club,
-            p.joined = $joined,
-            p.contract_expires = $expires,
-            p.last_contract_extension = $last_ext
-    """, name=name,
-         dob=profile.get("date_of_birth"),
-         height=profile.get("height"),
-         club=profile.get("current_club", "").strip(),
-         joined=profile.get("joined"),
-         expires=profile.get("contract_expires"),
-         last_ext=profile.get("last_contract_extension"))
+    parameters = {
+        "name": name,
+        "dob": profile.get("date_of_birth"),
+        "height": profile.get("height"),
+        "club": profile.get("current_club", "").strip(),
+        "joined": profile.get("joined"),
+        "expires": profile.get("contract_expires"),
+        "last_ext": profile.get("last_contract_extension")
+    }
+
+    set_clauses = [
+        "p.date_of_birth = $dob",
+        "p.height = $height",
+        "p.current_club = $club",
+        "p.joined = $joined",
+        "p.contract_expires = $expires",
+        "p.last_contract_extension = $last_ext"
+    ]
+
+    existing_keys = set(parameters.keys())
+
+    # Statystyki:
+    for key, value in player.items():
+        if key not in ["player", "transfermarkt_profile", "transfermarkt_transfers", "transfermarkt_awards"] and key not in existing_keys:
+            if key[0].isdigit():
+                key = 'n' + key  # Dodajemy 'n' na początku
+
+            # Zastępujemy '+' na 'plus' i nawiasy na '_'
+            key = key.replace("+", "plus").replace("(", "_").replace(")", "_")
+
+            parameters[key] = value
+            set_clauses.append(f"p.{key} = ${key}")
+
+    set_clause = ",\n    ".join(set_clauses)
+
+    tx.run(f"""
+        MERGE (p:Player {{name: $name}})
+        SET {set_clause}
+    """, **parameters)
 
     # --- Miejsce urodzenia ---
     tx.run("""
@@ -85,6 +108,8 @@ def insert_player_data(tx, player):
         """, name=name, country=country)
 
     # --- Relacje z transferami ---
+    transfers = player.get("transfermarkt_transfers", [])
+
     for transfer in transfers:
         old_club = transfer.get("old_club")
         # Ujednolicenie nazw klubów dla Emiliano Martíneza:
@@ -124,6 +149,8 @@ def insert_player_data(tx, player):
             """, name=name, club=old_club)
 
     # --- Nagrody ---
+    awards = player.get("transfermarkt_awards", [])
+
     for award in awards:
         title = award.get("title")
         years = award.get("years", [])
