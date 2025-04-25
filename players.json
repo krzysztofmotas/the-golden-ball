@@ -1,0 +1,4702 @@
+[
+  {
+    "player": "Bukayo Saka",
+    "transfermarkt_profile": {
+      "date_of_birth": "Sep 5, 2001",
+      "place_of_birth": "London",
+      "height": "1,78 m",
+      "citizenship": [
+        "England",
+        "Nigeria"
+      ],
+      "position": "Attack - Right Winger",
+      "foot": "left",
+      "player_agent": "Elite Project Group",
+      "current_club": " Arsenal FC",
+      "joined": "Jul 1, 2019",
+      "contract_expires": "Jun 30, 2027",
+      "last_contract_extension": "May 23, 2023",
+      "outfitter": "New Balance"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "19/20",
+        "date": "Jul 1, 2019",
+        "old_club": "Arsenal U23",
+        "new_club": "Arsenal",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "18/19",
+        "date": "Jul 1, 2018",
+        "old_club": "Arsenal U18",
+        "new_club": "Arsenal U23",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "17/18",
+        "date": "Jul 1, 2017",
+        "old_club": "Arsenal Youth",
+        "new_club": "Arsenal U18",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "08/09",
+        "date": "Jul 1, 2008",
+        "old_club": "Watford Yth.",
+        "new_club": "Arsenal Youth",
+        "market_value": "-",
+        "transfer_fee": "?"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024",
+          "2021"
+        ],
+        "clubs": [
+          "England",
+          "England"
+        ]
+      },
+      {
+        "title": "World Cup participant",
+        "years": [
+          "2022"
+        ],
+        "clubs": [
+          "England"
+        ]
+      },
+      {
+        "title": "English FA Cup winner",
+        "years": [
+          "2020"
+        ],
+        "clubs": [
+          "Arsenal FC"
+        ]
+      },
+      {
+        "title": "English Super Cup winner",
+        "years": [
+          "23/24",
+          "20/21"
+        ],
+        "clubs": [
+          "Arsenal FC",
+          "Arsenal FC"
+        ]
+      },
+      {
+        "title": "Euro runner-up",
+        "years": [
+          "2024",
+          "2021"
+        ],
+        "clubs": [
+          "England",
+          "England"
+        ]
+      },
+      {
+        "title": "Euro Under-17 participant",
+        "years": [
+          "2018"
+        ],
+        "clubs": [
+          "England U17"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Arsenal FC"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "22/23",
+          "20/21",
+          "19/20",
+          "18/19"
+        ],
+        "clubs": [
+          "Arsenal FC",
+          "Arsenal FC",
+          "Arsenal FC",
+          "Arsenal FC"
+        ]
+      },
+      {
+        "title": "Europa League runner-up",
+        "years": [
+          "18/19"
+        ],
+        "clubs": [
+          "Arsenal FC"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Declan Rice",
+    "transfermarkt_profile": {
+      "date_of_birth": "Jan 14, 1999",
+      "place_of_birth": "London",
+      "height": "1,88 m",
+      "citizenship": [
+        "England",
+        "Ireland"
+      ],
+      "position": "Midfield - Central Midfield",
+      "foot": "right",
+      "player_agent": "Relatives",
+      "current_club": " Arsenal FC",
+      "joined": "Jul 15, 2023",
+      "contract_expires": "Jun 30, 2028",
+      "contract_option": "Option for a further year",
+      "outfitter": "adidas"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "23/24",
+        "date": "Jul 15, 2023",
+        "old_club": "West Ham",
+        "new_club": "Arsenal",
+        "market_value": "€90.00m",
+        "transfer_fee": "€116.60m"
+      },
+      {
+        "season": "17/18",
+        "date": "Jul 1, 2017",
+        "old_club": "West Ham U21",
+        "new_club": "West Ham",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "16/17",
+        "date": "Jul 1, 2016",
+        "old_club": "West Ham U18",
+        "new_club": "West Ham U21",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "15/16",
+        "date": "Jul 1, 2015",
+        "old_club": "West Ham Yth.",
+        "new_club": "West Ham U18",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "13/14",
+        "date": "Jul 1, 2013",
+        "old_club": "Chelsea Youth",
+        "new_club": "West Ham Yth.",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Martin Ødegaard",
+    "transfermarkt_profile": {
+      "date_of_birth": "Dec 17, 1998",
+      "place_of_birth": "Drammen",
+      "height": "1,78 m",
+      "citizenship": [
+        "Norway"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "foot": "left",
+      "player_agent": "Nordic Sky",
+      "current_club": " Arsenal FC",
+      "joined": "Aug 20, 2021",
+      "contract_expires": "Jun 30, 2028",
+      "last_contract_extension": "Sep 22, 2023",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "21/22",
+        "date": "Aug 20, 2021",
+        "old_club": "Real Madrid",
+        "new_club": "Arsenal",
+        "market_value": "€40.00m",
+        "transfer_fee": "€35.00m"
+      },
+      {
+        "season": "20/21",
+        "date": "Jun 30, 2021",
+        "old_club": "Arsenal",
+        "new_club": "Real Madrid",
+        "market_value": "€40.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "20/21",
+        "date": "Jan 27, 2021",
+        "old_club": "Real Madrid",
+        "new_club": "Arsenal",
+        "market_value": "€40.00m",
+        "transfer_fee": "Loan fee:€2.00m"
+      },
+      {
+        "season": "20/21",
+        "date": "Jul 20, 2020",
+        "old_club": "Real Sociedad",
+        "new_club": "Real Madrid",
+        "market_value": "€45.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "19/20",
+        "date": "Jul 5, 2019",
+        "old_club": "Real Madrid",
+        "new_club": "Real Sociedad",
+        "market_value": "€15.00m",
+        "transfer_fee": "Loan fee:€2.00m"
+      },
+      {
+        "season": "18/19",
+        "date": "Jun 30, 2019",
+        "old_club": "Vitesse",
+        "new_club": "Real Madrid",
+        "market_value": "€15.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "18/19",
+        "date": "Aug 21, 2018",
+        "old_club": "Real Madrid",
+        "new_club": "Vitesse",
+        "market_value": "€4.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "17/18",
+        "date": "Jun 30, 2018",
+        "old_club": "Heerenveen",
+        "new_club": "Real Madrid",
+        "market_value": "€4.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "16/17",
+        "date": "Jan 9, 2017",
+        "old_club": "Real Madrid",
+        "new_club": "Heerenveen",
+        "market_value": "€2.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "16/17",
+        "date": "Jan 8, 2017",
+        "old_club": "RM Castilla",
+        "new_club": "Real Madrid",
+        "market_value": "€2.00m",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "14/15",
+        "date": "Jan 22, 2015",
+        "old_club": "Strømsgodset",
+        "new_club": "RM Castilla",
+        "market_value": "€4.00m",
+        "transfer_fee": "€2.80m"
+      },
+      {
+        "season": "13/14",
+        "date": "May 5, 2014",
+        "old_club": "Strømsgodset II",
+        "new_club": "Strømsgodset",
+        "market_value": "€1.00m",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "13/14",
+        "date": "Jan 1, 2014",
+        "old_club": "Godset Yth.",
+        "new_club": "Strømsgodset II",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "English Super Cup winner",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Arsenal FC"
+        ]
+      },
+      {
+        "title": "Best young player",
+        "years": [
+          "2014"
+        ],
+        "clubs": [
+          "Tippeligaen"
+        ]
+      },
+      {
+        "title": "Footballer of the Year",
+        "years": [
+          "2019"
+        ],
+        "clubs": [
+          "Norway"
+        ]
+      },
+      {
+        "title": "Spanish cup winner",
+        "years": [
+          "19/20"
+        ],
+        "clubs": [
+          "Real Sociedad"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "23/24",
+          "20/21"
+        ],
+        "clubs": [
+          "Arsenal FC",
+          "Real Madrid"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "22/23",
+          "20/21"
+        ],
+        "clubs": [
+          "Arsenal FC",
+          "Arsenal FC"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "William Saliba",
+    "transfermarkt_profile": {
+      "date_of_birth": "Mar 24, 2001",
+      "place_of_birth": "Bondy",
+      "height": "1,92 m",
+      "citizenship": [
+        "France",
+        "Cameroon"
+      ],
+      "position": "Defender - Centre-Back",
+      "foot": "right",
+      "player_agent": "ND SPORTS MANAGEMENT",
+      "current_club": " Arsenal FC",
+      "joined": "Jul 25, 2019",
+      "contract_expires": "Jun 30, 2027",
+      "last_contract_extension": "Jul 7, 2023"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "21/22",
+        "date": "Jun 30, 2022",
+        "old_club": "Marseille",
+        "new_club": "Arsenal",
+        "market_value": "€30.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "21/22",
+        "date": "Jul 15, 2021",
+        "old_club": "Arsenal",
+        "new_club": "Marseille",
+        "market_value": "€18.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "20/21",
+        "date": "Jun 30, 2021",
+        "old_club": "OGC Nice",
+        "new_club": "Arsenal",
+        "market_value": "€18.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "20/21",
+        "date": "Jan 4, 2021",
+        "old_club": "Arsenal",
+        "new_club": "OGC Nice",
+        "market_value": "€17.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "19/20",
+        "date": "Jun 30, 2020",
+        "old_club": "Saint-Étienne",
+        "new_club": "Arsenal",
+        "market_value": "€22.50m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "19/20",
+        "date": "Jul 26, 2019",
+        "old_club": "Arsenal",
+        "new_club": "Saint-Étienne",
+        "market_value": "€12.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "19/20",
+        "date": "Jul 25, 2019",
+        "old_club": "Saint-Étienne",
+        "new_club": "Arsenal",
+        "market_value": "€12.00m",
+        "transfer_fee": "€30.00m"
+      },
+      {
+        "season": "18/19",
+        "date": "Jul 1, 2018",
+        "old_club": "Saint-Étienne B",
+        "new_club": "Saint-Étienne",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "17/18",
+        "date": "May 11, 2018",
+        "old_club": "St-Étienne U19",
+        "new_club": "Saint-Étienne B",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "17/18",
+        "date": "Jul 1, 2017",
+        "old_club": "St-Étienne U17",
+        "new_club": "St-Étienne U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "16/17",
+        "date": "Jul 1, 2016",
+        "old_club": "Montfermeil Jgd",
+        "new_club": "St-Étienne U17",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "14/15",
+        "date": "Jul 1, 2014",
+        "old_club": "AS Bondy Yth.",
+        "new_club": "Montfermeil Jgd",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "World Cup participant",
+        "years": [
+          "2022"
+        ],
+        "clubs": [
+          "France"
+        ]
+      },
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "France"
+        ]
+      },
+      {
+        "title": "English Super Cup winner",
+        "years": [
+          "23/24",
+          "20/21"
+        ],
+        "clubs": [
+          "Arsenal FC",
+          "Arsenal FC"
+        ]
+      },
+      {
+        "title": "Best young player",
+        "years": [
+          "2022"
+        ],
+        "clubs": [
+          "Ligue 1"
+        ]
+      },
+      {
+        "title": "World Cup runner-up",
+        "years": [
+          "2022"
+        ],
+        "clubs": [
+          "France"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Arsenal FC"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "22/23",
+          "21/22",
+          "19/20"
+        ],
+        "clubs": [
+          "Arsenal FC",
+          "Olympique Marseille",
+          "AS Saint-Étienne"
+        ]
+      },
+      {
+        "title": "Conference League participant",
+        "years": [
+          "21/22"
+        ],
+        "clubs": [
+          "Olympique Marseille"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Emiliano Martínez",
+    "transfermarkt_profile": {
+      "date_of_birth": "Sep 2, 1992",
+      "place_of_birth": "Mar del Plata",
+      "height": "1,95 m",
+      "citizenship": [
+        "Argentina",
+        "Spain"
+      ],
+      "position": "Goalkeeper",
+      "foot": "right",
+      "player_agent": "Universal Twenty Two",
+      "current_club": " Aston Villa",
+      "joined": "Sep 16, 2020",
+      "contract_expires": "Jun 30, 2029",
+      "last_contract_extension": "Aug 21, 2024",
+      "outfitter": "adidas"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "20/21",
+        "date": "Sep 16, 2020",
+        "old_club": "Arsenal",
+        "new_club": "Aston Villa",
+        "market_value": "€8.00m",
+        "transfer_fee": "€17.40m"
+      },
+      {
+        "season": "18/19",
+        "date": "May 31, 2019",
+        "old_club": "Reading",
+        "new_club": "Arsenal",
+        "market_value": "€1.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "18/19",
+        "date": "Jan 23, 2019",
+        "old_club": "Arsenal",
+        "new_club": "Reading",
+        "market_value": "€1.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "17/18",
+        "date": "Jun 30, 2018",
+        "old_club": "Getafe",
+        "new_club": "Arsenal",
+        "market_value": "€1.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "17/18",
+        "date": "Aug 2, 2017",
+        "old_club": "Arsenal",
+        "new_club": "Getafe",
+        "market_value": "€1.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "15/16",
+        "date": "May 31, 2016",
+        "old_club": "Wolves",
+        "new_club": "Arsenal",
+        "market_value": "€1.50m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "15/16",
+        "date": "Aug 11, 2015",
+        "old_club": "Arsenal",
+        "new_club": "Wolves",
+        "market_value": "€1.50m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "14/15",
+        "date": "May 4, 2015",
+        "old_club": "Rotherham",
+        "new_club": "Arsenal",
+        "market_value": "€1.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "14/15",
+        "date": "Mar 20, 2015",
+        "old_club": "Arsenal",
+        "new_club": "Rotherham",
+        "market_value": "€1.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "13/14",
+        "date": "May 31, 2014",
+        "old_club": "Sheff Wed",
+        "new_club": "Arsenal",
+        "market_value": "€300k",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "13/14",
+        "date": "Oct 15, 2013",
+        "old_club": "Arsenal",
+        "new_club": "Sheff Wed",
+        "market_value": "-",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "12/13",
+        "date": "Jul 1, 2012",
+        "old_club": "Arsenal U21",
+        "new_club": "Arsenal",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "11/12",
+        "date": "May 7, 2012",
+        "old_club": "Oxford United",
+        "new_club": "Arsenal Res.",
+        "market_value": "-",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "11/12",
+        "date": "May 4, 2012",
+        "old_club": "Arsenal Res.",
+        "new_club": "Oxford United",
+        "market_value": "-",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "10/11",
+        "date": "Jul 1, 2010",
+        "old_club": "Indep'te U20",
+        "new_club": "Arsenal Res.",
+        "market_value": "-",
+        "transfer_fee": "€1.50m"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Ademola Lookman",
+    "transfermarkt_profile": {
+      "date_of_birth": "Oct 20, 1997",
+      "place_of_birth": "London",
+      "height": "1,74 m",
+      "citizenship": [
+        "Nigeria",
+        "England"
+      ],
+      "position": "Attack - Second Striker",
+      "foot": "right",
+      "player_agent": "ROOF",
+      "current_club": " Atalanta BC",
+      "joined": "Aug 4, 2022",
+      "contract_expires": "Jun 30, 2026",
+      "contract_option": "club option 1 year",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "22/23",
+        "date": "Aug 4, 2022",
+        "old_club": "RB Leipzig",
+        "new_club": "Atalanta BC",
+        "market_value": "€10.00m",
+        "transfer_fee": "€9.35m"
+      },
+      {
+        "season": "21/22",
+        "date": "Jun 30, 2022",
+        "old_club": "Leicester",
+        "new_club": "RB Leipzig",
+        "market_value": "€10.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "21/22",
+        "date": "Aug 31, 2021",
+        "old_club": "RB Leipzig",
+        "new_club": "Leicester",
+        "market_value": "€11.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "20/21",
+        "date": "Jun 30, 2021",
+        "old_club": "Fulham",
+        "new_club": "RB Leipzig",
+        "market_value": "€11.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "20/21",
+        "date": "Sep 30, 2020",
+        "old_club": "RB Leipzig",
+        "new_club": "Fulham",
+        "market_value": "€10.00m",
+        "transfer_fee": "Loan fee:€2.00m"
+      },
+      {
+        "season": "19/20",
+        "date": "Jul 25, 2019",
+        "old_club": "Everton",
+        "new_club": "RB Leipzig",
+        "market_value": "€20.00m",
+        "transfer_fee": "€18.00m"
+      },
+      {
+        "season": "17/18",
+        "date": "Jun 30, 2018",
+        "old_club": "RB Leipzig",
+        "new_club": "Everton",
+        "market_value": "€12.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "17/18",
+        "date": "Jan 31, 2018",
+        "old_club": "Everton",
+        "new_club": "RB Leipzig",
+        "market_value": "€7.00m",
+        "transfer_fee": "Loan fee:€500k"
+      },
+      {
+        "season": "16/17",
+        "date": "Jan 5, 2017",
+        "old_club": "Charlton",
+        "new_club": "Everton",
+        "market_value": "€1.50m",
+        "transfer_fee": "€8.80m"
+      },
+      {
+        "season": "15/16",
+        "date": "Jul 1, 2015",
+        "old_club": "Charlton U18",
+        "new_club": "Charlton",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "African Footballer of the Year",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Atalanta BC"
+        ]
+      },
+      {
+        "title": "Europa League winner",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Atalanta BC"
+        ]
+      },
+      {
+        "title": "German cup runner-up",
+        "years": [
+          "20/21"
+        ],
+        "clubs": [
+          "RB Leipzig"
+        ]
+      },
+      {
+        "title": "European Under-19 participant",
+        "years": [
+          "2016"
+        ],
+        "clubs": [
+          "England U19"
+        ]
+      },
+      {
+        "title": "Africa Cup participant",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Nigeria"
+        ]
+      },
+      {
+        "title": "Under-20 World Cup participant",
+        "years": [
+          "2017"
+        ],
+        "clubs": [
+          "England U20"
+        ]
+      },
+      {
+        "title": "Under-20 World Cup champion",
+        "years": [
+          "2017"
+        ],
+        "clubs": [
+          "England U20"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "19/20"
+        ],
+        "clubs": [
+          "RB Leipzig"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "23/24",
+          "21/22",
+          "17/18"
+        ],
+        "clubs": [
+          "Atalanta BC",
+          "Leicester City",
+          "Everton FC"
+        ]
+      },
+      {
+        "title": "Conference League participant",
+        "years": [
+          "21/22"
+        ],
+        "clubs": [
+          "Leicester City"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Nico Williams",
+    "transfermarkt_profile": {
+      "date_of_birth": "Jul 12, 2002",
+      "place_of_birth": "Pamplona",
+      "height": "1,81 m",
+      "citizenship": [
+        "Spain",
+        "Ghana"
+      ],
+      "position": "Attack - Left Winger",
+      "foot": "right",
+      "current_club": " Athletic Bilbao",
+      "joined": "Jul 1, 2021",
+      "contract_expires": "Jun 30, 2027",
+      "last_contract_extension": "Dec 1, 2023",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "21/22",
+        "date": "Jul 1, 2021",
+        "old_club": "Bilbao Athletic",
+        "new_club": "Athletic",
+        "market_value": "€1.50m",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "20/21",
+        "date": "Jul 1, 2020",
+        "old_club": "Bilbao U19",
+        "new_club": "Bilbao Athletic",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "19/20",
+        "date": "Jul 1, 2019",
+        "old_club": "Bilbao U18",
+        "new_club": "Bilbao U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "18/19",
+        "date": "Jul 1, 2018",
+        "old_club": "Bilbao Youth",
+        "new_club": "Bilbao U18",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "13/14",
+        "date": "Jul 1, 2013",
+        "old_club": "CA Osasuna Yout",
+        "new_club": "Bilbao Youth",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "European champion",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Spain"
+        ]
+      },
+      {
+        "title": "World Cup participant",
+        "years": [
+          "2022"
+        ],
+        "clubs": [
+          "Spain"
+        ]
+      },
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Spain"
+        ]
+      },
+      {
+        "title": "Spanish cup winner",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Athletic Bilbao"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Lamine Yamal",
+    "transfermarkt_profile": {
+      "full_name": "Lamine Yamal Nasraoui Ebana",
+      "date_of_birth": "Jul 13, 2007",
+      "place_of_birth": "Esplugues de Llobregat",
+      "height": "1,80 m",
+      "citizenship": [
+        "Spain",
+        "Equatorial",
+        "Guinea"
+      ],
+      "position": "Attack - Right Winger",
+      "foot": "left",
+      "player_agent": "Agent is known - Player under 18",
+      "current_club": " FC Barcelona",
+      "joined": "Jul 1, 2023",
+      "contract_expires": "Jun 30, 2026",
+      "last_contract_extension": "Oct 2, 2023",
+      "outfitter": "adidas"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "23/24",
+        "date": "Jul 1, 2023",
+        "old_club": "Barça U19",
+        "new_club": "Barcelona",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "22/23",
+        "date": "Jul 1, 2022",
+        "old_club": "Barça U16",
+        "new_club": "Barça U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "21/22",
+        "date": "Jul 1, 2021",
+        "old_club": "Barça Youth",
+        "new_club": "Barça U16",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "European champion",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Spain"
+        ]
+      },
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Spain"
+        ]
+      },
+      {
+        "title": "Spanish champion",
+        "years": [
+          "22/23"
+        ],
+        "clubs": [
+          "FC Barcelona"
+        ]
+      },
+      {
+        "title": "Best young player",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "EURO 2024"
+        ]
+      },
+      {
+        "title": "Euro Under-17 participant",
+        "years": [
+          "2023"
+        ],
+        "clubs": [
+          "Spain U17"
+        ]
+      },
+      {
+        "title": "Top scorer",
+        "years": [
+          "22/23"
+        ],
+        "clubs": [
+          "Spain U17"
+        ]
+      },
+      {
+        "title": "Spanish Super Cup winner",
+        "years": [
+          "24/25"
+        ],
+        "clubs": [
+          "FC Barcelona"
+        ]
+      },
+      {
+        "title": "Torneio Internacional Algarve U17",
+        "years": [
+          "2023"
+        ],
+        "clubs": [
+          "U17 Algarve Tournament"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "FC Barcelona"
+        ]
+      },
+      {
+        "title": "Top goal scorer",
+        "years": [
+          "22/23",
+          "22/23"
+        ],
+        "clubs": [
+          "U17 Algarve Tournament",
+          "2023 UEFA Under-17 Euro"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Harry Kane",
+    "transfermarkt_profile": {
+      "date_of_birth": "Jul 28, 1993",
+      "place_of_birth": "London",
+      "height": "1,88 m",
+      "citizenship": [
+        "England"
+      ],
+      "position": "Attack - Centre-Forward",
+      "foot": "right",
+      "player_agent": "CK66",
+      "current_club": " Bayern Munich",
+      "joined": "Aug 12, 2023",
+      "contract_expires": "Jun 30, 2027",
+      "outfitter": "Skechers"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "23/24",
+        "date": "Aug 12, 2023",
+        "old_club": "Tottenham",
+        "new_club": "Bayern Munich",
+        "market_value": "€90.00m",
+        "transfer_fee": "€95.00m"
+      },
+      {
+        "season": "12/13",
+        "date": "May 14, 2013",
+        "old_club": "Leicester",
+        "new_club": "Tottenham",
+        "market_value": "€500k",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "12/13",
+        "date": "Feb 21, 2013",
+        "old_club": "Tottenham",
+        "new_club": "Leicester",
+        "market_value": "€500k",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "12/13",
+        "date": "Feb 1, 2013",
+        "old_club": "Norwich",
+        "new_club": "Tottenham",
+        "market_value": "€500k",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "12/13",
+        "date": "Aug 31, 2012",
+        "old_club": "Tottenham",
+        "new_club": "Norwich",
+        "market_value": "-",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "11/12",
+        "date": "May 31, 2012",
+        "old_club": "Millwall",
+        "new_club": "Tottenham",
+        "market_value": "-",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "11/12",
+        "date": "Jan 1, 2012",
+        "old_club": "Tottenham",
+        "new_club": "Millwall",
+        "market_value": "-",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "10/11",
+        "date": "May 31, 2011",
+        "old_club": "Leyton Orient",
+        "new_club": "Tottenham",
+        "market_value": "-",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "10/11",
+        "date": "Jan 7, 2011",
+        "old_club": "Tottenham",
+        "new_club": "Leyton Orient",
+        "market_value": "-",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "10/11",
+        "date": "Jul 1, 2010",
+        "old_club": "Spurs U18",
+        "new_club": "Tottenham",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "09/10",
+        "date": "Jul 1, 2009",
+        "old_club": "Tottenham Yth.",
+        "new_club": "Spurs U18",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "04/05",
+        "date": "Aug 16, 2004",
+        "old_club": "Watford Yth.",
+        "new_club": "Tottenham Yth.",
+        "market_value": "-",
+        "transfer_fee": "?"
+      },
+      {
+        "season": "04/05",
+        "date": "Jul 1, 2004",
+        "old_club": "Rovers FC Youth",
+        "new_club": "Watford Yth.",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "02/03",
+        "date": "Jul 1, 2002",
+        "old_club": "Arsenal Youth",
+        "new_club": "Rovers FC Youth",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "01/02",
+        "date": "Jul 1, 2001",
+        "old_club": "Rovers FC Youth",
+        "new_club": "Arsenal Youth",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024",
+          "2021",
+          "2016"
+        ],
+        "clubs": [
+          "England",
+          "England",
+          "England"
+        ]
+      },
+      {
+        "title": "World Cup participant",
+        "years": [
+          "2022",
+          "2018"
+        ],
+        "clubs": [
+          "England",
+          "England"
+        ]
+      },
+      {
+        "title": "Golden Boot winner (Europe)",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "Best young player",
+        "years": [
+          "2015"
+        ],
+        "clubs": [
+          "Premier League"
+        ]
+      },
+      {
+        "title": "Euro runner-up",
+        "years": [
+          "2024",
+          "2021"
+        ],
+        "clubs": [
+          "England",
+          "England"
+        ]
+      },
+      {
+        "title": "Champions League runner-up",
+        "years": [
+          "18/19"
+        ],
+        "clubs": [
+          "Tottenham Hotspur"
+        ]
+      },
+      {
+        "title": "European Under-19 participant",
+        "years": [
+          "2013",
+          "2013"
+        ],
+        "clubs": [
+          "England U19",
+          "England U19"
+        ]
+      },
+      {
+        "title": "European Under-21 participant",
+        "years": [
+          "2015"
+        ],
+        "clubs": [
+          "England U21"
+        ]
+      },
+      {
+        "title": "Under-20 World Cup participant",
+        "years": [
+          "2013"
+        ],
+        "clubs": [
+          "England U20"
+        ]
+      },
+      {
+        "title": "Best assist provider",
+        "years": [
+          "20/21"
+        ],
+        "clubs": [
+          "Tottenham Hotspur"
+        ]
+      },
+      {
+        "title": "Torneio Internacional Algarve U17",
+        "years": [
+          "2010"
+        ],
+        "clubs": [
+          "U17 Algarve Tournament"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "23/24",
+          "22/23",
+          "19/20",
+          "18/19",
+          "17/18",
+          "16/17"
+        ],
+        "clubs": [
+          "Bayern Munich",
+          "Tottenham Hotspur",
+          "Tottenham Hotspur",
+          "Tottenham Hotspur",
+          "Tottenham Hotspur",
+          "Tottenham Hotspur"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "20/21",
+          "16/17",
+          "15/16",
+          "14/15",
+          "13/14",
+          "11/12"
+        ],
+        "clubs": [
+          "Tottenham Hotspur",
+          "Tottenham Hotspur",
+          "Tottenham Hotspur",
+          "Tottenham Hotspur",
+          "Tottenham Hotspur",
+          "Tottenham Hotspur"
+        ]
+      },
+      {
+        "title": "Conference League participant",
+        "years": [
+          "21/22"
+        ],
+        "clubs": [
+          "Tottenham Hotspur"
+        ]
+      },
+      {
+        "title": "Top goal scorer",
+        "years": [
+          "23/24",
+          "23/24",
+          "23/24",
+          "20/21",
+          "20/21",
+          "18/19",
+          "17/18",
+          "16/17",
+          "15/16"
+        ],
+        "clubs": [
+          "Bundesliga",
+          "UEFA Champions League",
+          "EURO 2024",
+          "UEFA Europa League Qualifying",
+          "Premier League",
+          "European Qualifiers",
+          "World Cup 2018",
+          "Premier League",
+          "Premier League"
+        ]
+      },
+      {
+        "title": "Player of the Year",
+        "years": [
+          "20/21",
+          "17/18",
+          "16/17",
+          "14/15"
+        ],
+        "clubs": [
+          "Tottenham Hotspur",
+          "England",
+          "England",
+          "Tottenham Hotspur"
+        ]
+      },
+      {
+        "title": "TM-Player of the season",
+        "years": [
+          "2021"
+        ],
+        "clubs": [
+          "England"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Cole Palmer",
+    "transfermarkt_profile": {
+      "date_of_birth": "May 6, 2002",
+      "place_of_birth": "Manchester",
+      "height": "1,85 m",
+      "citizenship": [
+        "England"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "foot": "left",
+      "player_agent": "CAA Base Ltd",
+      "current_club": " Chelsea FC",
+      "joined": "Sep 1, 2023",
+      "contract_expires": "Jun 30, 2033",
+      "last_contract_extension": "Aug 13, 2024",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "23/24",
+        "date": "Sep 1, 2023",
+        "old_club": "Man City",
+        "new_club": "Chelsea",
+        "market_value": "€18.00m",
+        "transfer_fee": "€47.00m"
+      },
+      {
+        "season": "21/22",
+        "date": "Jul 1, 2021",
+        "old_club": "Man City U23",
+        "new_club": "Man City",
+        "market_value": "€500k",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "20/21",
+        "date": "Jul 1, 2020",
+        "old_club": "Man City U18",
+        "new_club": "Man City U23",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "18/19",
+        "date": "Jul 1, 2018",
+        "old_club": "Man City Youth",
+        "new_club": "Man City U18",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Mats Hummels",
+    "transfermarkt_profile": {
+      "date_of_birth": "Dec 16, 1988",
+      "place_of_birth": "Bergisch Gladbach",
+      "height": "1,91 m",
+      "citizenship": [
+        "Germany"
+      ],
+      "position": "Defender - Centre-Back",
+      "foot": "right",
+      "player_agent": "HMH Sportmanagement",
+      "current_club": " AS Roma",
+      "joined": "Sep 4, 2024",
+      "contract_expires": "Jun 30, 2025",
+      "outfitter": "adidas"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "25/26",
+        "date": "Jul 1, 2025",
+        "old_club": "AS Roma",
+        "new_club": "Retired",
+        "market_value": "€2.50m",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "24/25",
+        "date": "Sep 4, 2024",
+        "old_club": "Without Club",
+        "new_club": "AS Roma",
+        "market_value": "€5.00m",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "24/25",
+        "date": "Jul 1, 2024",
+        "old_club": "Bor. Dortmund",
+        "new_club": "Without Club",
+        "market_value": "€5.00m",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "19/20",
+        "date": "Jul 1, 2019",
+        "old_club": "Bayern Munich",
+        "new_club": "Bor. Dortmund",
+        "market_value": "€35.00m",
+        "transfer_fee": "€30.50m"
+      },
+      {
+        "season": "16/17",
+        "date": "Jul 1, 2016",
+        "old_club": "Bor. Dortmund",
+        "new_club": "Bayern Munich",
+        "market_value": "€38.00m",
+        "transfer_fee": "€35.00m"
+      },
+      {
+        "season": "09/10",
+        "date": "Jul 1, 2009",
+        "old_club": "Bayern Munich",
+        "new_club": "Bor. Dortmund",
+        "market_value": "€4.00m",
+        "transfer_fee": "€4.20m"
+      },
+      {
+        "season": "08/09",
+        "date": "Jun 30, 2009",
+        "old_club": "Bor. Dortmund",
+        "new_club": "Bayern Munich",
+        "market_value": "€4.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "07/08",
+        "date": "Jan 3, 2008",
+        "old_club": "Bayern Munich",
+        "new_club": "Bor. Dortmund",
+        "market_value": "€250k",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "06/07",
+        "date": "Jan 1, 2007",
+        "old_club": "FC Bayern II",
+        "new_club": "Bayern Munich",
+        "market_value": "€150k",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "06/07",
+        "date": "Jul 1, 2006",
+        "old_club": "FC Bayern U19",
+        "new_club": "FC Bayern II",
+        "market_value": "€50k",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "04/05",
+        "date": "Jan 1, 2005",
+        "old_club": "FC Bayern U17",
+        "new_club": "FC Bayern U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "03/04",
+        "date": "Jul 1, 2003",
+        "old_club": "B. München Yth.",
+        "new_club": "FC Bayern U17",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "World Cup winner",
+        "years": [
+          "2014"
+        ],
+        "clubs": [
+          "Germany"
+        ]
+      },
+      {
+        "title": "German Champion",
+        "years": [
+          "18/19",
+          "17/18",
+          "16/17",
+          "11/12",
+          "10/11",
+          "07/08"
+        ],
+        "clubs": [
+          "Bayern Munich",
+          "Bayern Munich",
+          "Bayern Munich",
+          "Borussia Dortmund",
+          "Borussia Dortmund",
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "German cup winner",
+        "years": [
+          "20/21",
+          "18/19",
+          "11/12",
+          "07/08"
+        ],
+        "clubs": [
+          "Borussia Dortmund",
+          "Bayern Munich",
+          "Borussia Dortmund",
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "German Super Cup winner",
+        "years": [
+          "19/20",
+          "18/19",
+          "17/18",
+          "16/17",
+          "14/15",
+          "13/14"
+        ],
+        "clubs": [
+          "Borussia Dortmund",
+          "Bayern Munich",
+          "Bayern Munich",
+          "Bayern Munich",
+          "Borussia Dortmund",
+          "Borussia Dortmund"
+        ]
+      },
+      {
+        "title": "German cup runner-up",
+        "years": [
+          "17/18",
+          "15/16",
+          "14/15",
+          "07/08"
+        ],
+        "clubs": [
+          "Bayern Munich",
+          "Borussia Dortmund",
+          "Borussia Dortmund",
+          "Borussia Dortmund"
+        ]
+      },
+      {
+        "title": "Champions League runner-up",
+        "years": [
+          "12/13"
+        ],
+        "clubs": [
+          "Borussia Dortmund"
+        ]
+      },
+      {
+        "title": "German Bundesliga runner-up",
+        "years": [
+          "19/20",
+          "15/16",
+          "13/14",
+          "12/13"
+        ],
+        "clubs": [
+          "Borussia Dortmund",
+          "Borussia Dortmund",
+          "Borussia Dortmund",
+          "Borussia Dortmund"
+        ]
+      },
+      {
+        "title": "Defender of the Year",
+        "years": [
+          "13/14",
+          "11/12",
+          "10/11"
+        ],
+        "clubs": [
+          "Germany",
+          "Borussia Dortmund",
+          "Borussia Dortmund"
+        ]
+      },
+      {
+        "title": "German League Cup winner",
+        "years": [
+          "2008"
+        ],
+        "clubs": [
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "German Super Cup runner-up",
+        "years": [
+          "12/13",
+          "11/12"
+        ],
+        "clubs": [
+          "Borussia Dortmund",
+          "Borussia Dortmund"
+        ]
+      },
+      {
+        "title": "European Under-21 champion",
+        "years": [
+          "2009"
+        ],
+        "clubs": [
+          "Germany U21"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Artem Dovbyk",
+    "transfermarkt_profile": {
+      "date_of_birth": "Jun 21, 1997",
+      "place_of_birth": "Cherkasy",
+      "height": "1,89 m",
+      "citizenship": [
+        "Ukraine"
+      ],
+      "position": "Attack - Centre-Forward",
+      "foot": "left",
+      "player_agent": "ALIK FOOTBALL",
+      "current_club": " AS Roma",
+      "joined": "Aug 2, 2024",
+      "contract_expires": "Jun 30, 2029",
+      "last_contract_extension": "Aug 2, 2024",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "24/25",
+        "date": "Aug 2, 2024",
+        "old_club": "Girona",
+        "new_club": "AS Roma",
+        "market_value": "€35.00m",
+        "transfer_fee": "€30.50m"
+      },
+      {
+        "season": "23/24",
+        "date": "Aug 6, 2023",
+        "old_club": "SC Dnipro-1",
+        "new_club": "Girona",
+        "market_value": "€15.00m",
+        "transfer_fee": "€7.75m"
+      },
+      {
+        "season": "20/21",
+        "date": "Aug 1, 2020",
+        "old_club": "FC Midtjylland",
+        "new_club": "SC Dnipro-1",
+        "market_value": "€400k",
+        "transfer_fee": "€2.20m"
+      },
+      {
+        "season": "19/20",
+        "date": "Jul 31, 2020",
+        "old_club": "Sönderjyske",
+        "new_club": "FC Midtjylland",
+        "market_value": "€400k",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "19/20",
+        "date": "Sep 2, 2019",
+        "old_club": "FC Midtjylland",
+        "new_club": "Sönderjyske",
+        "market_value": "€300k",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "17/18",
+        "date": "Jan 31, 2018",
+        "old_club": "Dnipro",
+        "new_club": "FC Midtjylland",
+        "market_value": "€500k",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "15/16",
+        "date": "Jun 30, 2016",
+        "old_club": "Zaria Balti",
+        "new_club": "Dnipro",
+        "market_value": "€50k",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "15/16",
+        "date": "Apr 9, 2016",
+        "old_club": "Dnipro",
+        "new_club": "Zaria Balti",
+        "market_value": "-",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "15/16",
+        "date": "Jul 1, 2015",
+        "old_club": "Cherk. Dnipro",
+        "new_club": "Dnipro",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "14/15",
+        "date": "Jul 24, 2014",
+        "old_club": "Unknown",
+        "new_club": "Cherk. Dnipro",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024",
+          "2021"
+        ],
+        "clubs": [
+          "Ukraine",
+          "Ukraine"
+        ]
+      },
+      {
+        "title": "Danish champion",
+        "years": [
+          "19/20",
+          "17/18"
+        ],
+        "clubs": [
+          "FC Midtjylland",
+          "FC Midtjylland"
+        ]
+      },
+      {
+        "title": "Danish runner-up",
+        "years": [
+          "2019"
+        ],
+        "clubs": [
+          "Superliga"
+        ]
+      },
+      {
+        "title": "Moldavian cup winner",
+        "years": [
+          "15/16"
+        ],
+        "clubs": [
+          "Zaria Balti"
+        ]
+      },
+      {
+        "title": "Danish Cup Winner",
+        "years": [
+          "19/20",
+          "18/19"
+        ],
+        "clubs": [
+          "Sönderjyske",
+          "FC Midtjylland"
+        ]
+      },
+      {
+        "title": "Conference League participant",
+        "years": [
+          "22/23"
+        ],
+        "clubs": [
+          "SC Dnipro-1"
+        ]
+      },
+      {
+        "title": "Top goal scorer",
+        "years": [
+          "23/24",
+          "22/23",
+          "21/22"
+        ],
+        "clubs": [
+          "LaLiga",
+          "Premier Liga",
+          "Premier Liga"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Hakan Çalhanoğlu",
+    "transfermarkt_profile": {
+      "date_of_birth": "Feb 8, 1994",
+      "place_of_birth": "Mannheim",
+      "height": "1,78 m",
+      "citizenship": [
+        "Germany"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "foot": "right",
+      "player_agent": "Unique Sports Group",
+      "current_club": " Inter Milan",
+      "joined": "Jul 1, 2021",
+      "contract_expires": "Jun 30, 2027",
+      "last_contract_extension": "Jul 5, 2023",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "21/22",
+        "date": "Jul 1, 2021",
+        "old_club": "AC Milan",
+        "new_club": "Inter",
+        "market_value": "€35.00m",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "17/18",
+        "date": "Jul 3, 2017",
+        "old_club": "B. Leverkusen",
+        "new_club": "AC Milan",
+        "market_value": "€20.00m",
+        "transfer_fee": "€23.30m"
+      },
+      {
+        "season": "14/15",
+        "date": "Jul 4, 2014",
+        "old_club": "Hamburger SV",
+        "new_club": "B. Leverkusen",
+        "market_value": "€7.00m",
+        "transfer_fee": "€15.25m"
+      },
+      {
+        "season": "12/13",
+        "date": "Jun 30, 2013",
+        "old_club": "Karlsruher SC",
+        "new_club": "Hamburger SV",
+        "market_value": "€3.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "12/13",
+        "date": "Aug 15, 2012",
+        "old_club": "Hamburger SV",
+        "new_club": "Karlsruher SC",
+        "market_value": "€1.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "12/13",
+        "date": "Aug 14, 2012",
+        "old_club": "Karlsruher SC",
+        "new_club": "Hamburger SV",
+        "market_value": "€1.00m",
+        "transfer_fee": "€2.50m"
+      },
+      {
+        "season": "11/12",
+        "date": "Jan 1, 2012",
+        "old_club": "Karlsruhe U19",
+        "new_club": "Karlsruher SC",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "11/12",
+        "date": "Jul 1, 2011",
+        "old_club": "Karlsruhe U17",
+        "new_club": "Karlsruhe U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "09/10",
+        "date": "Jul 1, 2009",
+        "old_club": "Mannheim Yth.",
+        "new_club": "Karlsruhe U17",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "01/02",
+        "date": "Jul 1, 2001",
+        "old_club": "PSV Mannh. Yth.",
+        "new_club": "Mannheim Yth.",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024",
+          "2021",
+          "2016"
+        ],
+        "clubs": [
+          "Turkiye",
+          "Turkiye",
+          "Turkiye"
+        ]
+      },
+      {
+        "title": "Italian champion",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Inter Milan"
+        ]
+      },
+      {
+        "title": "Italian cup winner",
+        "years": [
+          "22/23",
+          "21/22"
+        ],
+        "clubs": [
+          "Inter Milan",
+          "Inter Milan"
+        ]
+      },
+      {
+        "title": "Italian Super Cup winner",
+        "years": [
+          "23/24",
+          "22/23",
+          "21/22"
+        ],
+        "clubs": [
+          "Inter Milan",
+          "Inter Milan",
+          "Inter Milan"
+        ]
+      },
+      {
+        "title": "Champions League runner-up",
+        "years": [
+          "22/23"
+        ],
+        "clubs": [
+          "Inter Milan"
+        ]
+      },
+      {
+        "title": "German third tier champion",
+        "years": [
+          "12/13"
+        ],
+        "clubs": [
+          "3. Liga"
+        ]
+      },
+      {
+        "title": "Promotion to 2nd league",
+        "years": [
+          "12/13"
+        ],
+        "clubs": [
+          "Karlsruher SC"
+        ]
+      },
+      {
+        "title": "Footballer of the Year",
+        "years": [
+          "2021"
+        ],
+        "clubs": [
+          "Türkiye"
+        ]
+      },
+      {
+        "title": "Under-20 World Cup participant",
+        "years": [
+          "2013"
+        ],
+        "clubs": [
+          "Türkiye U20"
+        ]
+      },
+      {
+        "title": "Baden Cup winner",
+        "years": [
+          "12/13"
+        ],
+        "clubs": [
+          "Karlsruher SC"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "23/24",
+          "22/23",
+          "21/22",
+          "16/17",
+          "15/16",
+          "14/15"
+        ],
+        "clubs": [
+          "Inter Milan",
+          "Inter Milan",
+          "Inter Milan",
+          "Bayer 04 Leverkusen",
+          "Bayer 04 Leverkusen",
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "20/21",
+          "18/19",
+          "17/18",
+          "15/16"
+        ],
+        "clubs": [
+          "AC Milan",
+          "AC Milan",
+          "AC Milan",
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "Player of the Year",
+        "years": [
+          "12/13"
+        ],
+        "clubs": [
+          "Karlsruher SC"
+        ]
+      },
+      {
+        "title": "TM-Player of the season",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Italy"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Lautaro Martínez",
+    "transfermarkt_profile": {
+      "date_of_birth": "Aug 22, 1997",
+      "place_of_birth": "Bahía Blanca",
+      "height": "1,74 m",
+      "citizenship": [
+        "Argentina"
+      ],
+      "position": "Attack - Centre-Forward",
+      "foot": "right",
+      "player_agent": "Footfeel ISM",
+      "current_club": " Inter Milan",
+      "joined": "Jul 4, 2018",
+      "contract_expires": "Jun 30, 2029",
+      "last_contract_extension": "Aug 12, 2024",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "18/19",
+        "date": "Jul 4, 2018",
+        "old_club": "Racing Club",
+        "new_club": "Inter",
+        "market_value": "€25.00m",
+        "transfer_fee": "€25.00m"
+      },
+      {
+        "season": "15/16",
+        "date": "Jan 1, 2016",
+        "old_club": "Racing Club U20",
+        "new_club": "Racing Club",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "13/14",
+        "date": "Jul 10, 2014",
+        "old_club": "Liniers",
+        "new_club": "Racing Club U20",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Florian Wirtz",
+    "transfermarkt_profile": {
+      "date_of_birth": "May 3, 2003",
+      "place_of_birth": "Pulheim",
+      "height": "1,77 m",
+      "citizenship": [
+        "Germany"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "foot": "right",
+      "player_agent": "Relatives",
+      "current_club": " Bayer 04 Leverkusen",
+      "joined": "Jul 1, 2020",
+      "contract_expires": "Jun 30, 2027",
+      "last_contract_extension": "Jun 23, 2022",
+      "outfitter": "adidas"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "20/21",
+        "date": "Jul 1, 2020",
+        "old_club": "Leverkusen U19",
+        "new_club": "B. Leverkusen",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "19/20",
+        "date": "Jan 31, 2020",
+        "old_club": "1.FC Köln U17",
+        "new_club": "Leverkusen U19",
+        "market_value": "-",
+        "transfer_fee": "€200k"
+      },
+      {
+        "season": "18/19",
+        "date": "Jul 1, 2018",
+        "old_club": "1.FC Köln Yth.",
+        "new_club": "1.FC Köln U17",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "10/11",
+        "date": "Jul 1, 2010",
+        "old_club": "Brauweiler Yth.",
+        "new_club": "1.FC Köln Yth.",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Germany"
+        ]
+      },
+      {
+        "title": "German Champion",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "German cup winner",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "German Super Cup winner",
+        "years": [
+          "24/25"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "German cup runner-up",
+        "years": [
+          "19/20"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "European Under-21 participant",
+        "years": [
+          "2021"
+        ],
+        "clubs": [
+          "Germany U21"
+        ]
+      },
+      {
+        "title": "Fritz Walter Golden medalist",
+        "years": [
+          "2022",
+          "2020"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen",
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "German Under-17 Bundesliga champion",
+        "years": [
+          "18/19"
+        ],
+        "clubs": [
+          "1.FC Köln U17"
+        ]
+      },
+      {
+        "title": "German Under-17 Bundesliga West champion",
+        "years": [
+          "18/19"
+        ],
+        "clubs": [
+          "1.FC Köln U17"
+        ]
+      },
+      {
+        "title": "European Under-21 champion",
+        "years": [
+          "2020"
+        ],
+        "clubs": [
+          "Germany U21"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "23/24",
+          "22/23",
+          "21/22",
+          "20/21",
+          "20/21",
+          "19/20"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen",
+          "Bayer 04 Leverkusen",
+          "Bayer 04 Leverkusen",
+          "Bayer 04 Leverkusen",
+          "Bayer 04 Leverkusen",
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "Europa League runner-up",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "TM-Player of the season",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Germany"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Granit Xhaka",
+    "transfermarkt_profile": {
+      "date_of_birth": "Sep 27, 1992",
+      "place_of_birth": "Basel",
+      "height": "1,86 m",
+      "citizenship": [
+        "Switzerland"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "foot": "left",
+      "player_agent": "Signature - ISCM AG",
+      "current_club": " Bayer 04 Leverkusen",
+      "joined": "Jul 6, 2023",
+      "contract_expires": "Jun 30, 2028",
+      "outfitter": "Puma"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "23/24",
+        "date": "Jul 6, 2023",
+        "old_club": "Arsenal",
+        "new_club": "B. Leverkusen",
+        "market_value": "€20.00m",
+        "transfer_fee": "€15.00m"
+      },
+      {
+        "season": "16/17",
+        "date": "Jul 1, 2016",
+        "old_club": "Bor. M'gladbach",
+        "new_club": "Arsenal",
+        "market_value": "€35.00m",
+        "transfer_fee": "€45.00m"
+      },
+      {
+        "season": "12/13",
+        "date": "Jul 1, 2012",
+        "old_club": "FC Basel",
+        "new_club": "Bor. M'gladbach",
+        "market_value": "€8.50m",
+        "transfer_fee": "€8.50m"
+      },
+      {
+        "season": "10/11",
+        "date": "Jul 1, 2010",
+        "old_club": "FC Basel U21",
+        "new_club": "FC Basel",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "08/09",
+        "date": "Jul 1, 2008",
+        "old_club": "FC Basel U18",
+        "new_club": "FC Basel U21",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "07/08",
+        "date": "Jul 1, 2007",
+        "old_club": "FC Basel U16",
+        "new_club": "FC Basel U18",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "06/07",
+        "date": "Jul 1, 2006",
+        "old_club": "FC Basel U15",
+        "new_club": "FC Basel U16",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "05/06",
+        "date": "Jul 1, 2005",
+        "old_club": "FC Basel Yth.",
+        "new_club": "FC Basel U15",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "02/03",
+        "date": "Jan 1, 2003",
+        "old_club": "FCC Basel Yth.",
+        "new_club": "FC Basel Yth.",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "World Cup participant",
+        "years": [
+          "2022",
+          "2018",
+          "2014"
+        ],
+        "clubs": [
+          "Switzerland",
+          "Switzerland",
+          "Switzerland"
+        ]
+      },
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024",
+          "2021",
+          "2016"
+        ],
+        "clubs": [
+          "Switzerland",
+          "Switzerland",
+          "Switzerland"
+        ]
+      },
+      {
+        "title": "German Champion",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "English FA Cup winner",
+        "years": [
+          "2020",
+          "2017"
+        ],
+        "clubs": [
+          "Arsenal FC",
+          "Arsenal FC"
+        ]
+      },
+      {
+        "title": "German cup winner",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "English Super Cup winner",
+        "years": [
+          "20/21",
+          "17/18"
+        ],
+        "clubs": [
+          "Arsenal FC",
+          "Arsenal FC"
+        ]
+      },
+      {
+        "title": "German Super Cup winner",
+        "years": [
+          "24/25"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "Euro Under-21 runner-up",
+        "years": [
+          "2011"
+        ],
+        "clubs": [
+          "Switzerland U21"
+        ]
+      },
+      {
+        "title": "Swiss cup winner",
+        "years": [
+          "11/12"
+        ],
+        "clubs": [
+          "FC Basel 1893"
+        ]
+      },
+      {
+        "title": "Swiss champion",
+        "years": [
+          "11/12",
+          "10/11"
+        ],
+        "clubs": [
+          "FC Basel 1893",
+          "FC Basel 1893"
+        ]
+      },
+      {
+        "title": "Footballer of the Year",
+        "years": [
+          "2022",
+          "2017"
+        ],
+        "clubs": [
+          "Switzerland",
+          "Switzerland"
+        ]
+      },
+      {
+        "title": "European Under-21 participant",
+        "years": [
+          "2011"
+        ],
+        "clubs": [
+          "Switzerland U21"
+        ]
+      },
+      {
+        "title": "Under-17 World Cup participant",
+        "years": [
+          "2010",
+          "2009"
+        ],
+        "clubs": [
+          "Switzerland U17",
+          "Switzerland U17"
+        ]
+      },
+      {
+        "title": "Euro Under-17 participant",
+        "years": [
+          "2009"
+        ],
+        "clubs": [
+          "Switzerland U17"
+        ]
+      },
+      {
+        "title": "Under-17 World Cup champion",
+        "years": [
+          "2009"
+        ],
+        "clubs": [
+          "Switzerland U17"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "16/17",
+          "15/16",
+          "11/12",
+          "10/11"
+        ],
+        "clubs": [
+          "Arsenal FC",
+          "Borussia Mönchengladbach",
+          "FC Basel 1893",
+          "FC Basel 1893"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "23/24",
+          "22/23",
+          "20/21",
+          "19/20",
+          "18/19",
+          "17/18",
+          "14/15",
+          "12/13",
+          "10/11"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen",
+          "Arsenal FC",
+          "Arsenal FC",
+          "Arsenal FC",
+          "Arsenal FC",
+          "Arsenal FC",
+          "Borussia Mönchengladbach",
+          "Borussia Mönchengladbach",
+          "FC Basel 1893"
+        ]
+      },
+      {
+        "title": "Europa League runner-up",
+        "years": [
+          "23/24",
+          "18/19"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen",
+          "Arsenal FC"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Álex Grimaldo",
+    "transfermarkt_profile": {
+      "date_of_birth": "Sep 20, 1995",
+      "place_of_birth": "Valencia",
+      "height": "1,71 m",
+      "citizenship": [
+        "Spain"
+      ],
+      "position": "Defender - Left-Back",
+      "foot": "left",
+      "player_agent": "Wasserman",
+      "current_club": " Bayer 04 Leverkusen",
+      "joined": "Jul 1, 2023",
+      "contract_expires": "Jun 30, 2027",
+      "outfitter": "adidas"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "23/24",
+        "date": "Jul 1, 2023",
+        "old_club": "Benfica",
+        "new_club": "B. Leverkusen",
+        "market_value": "€25.00m",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "15/16",
+        "date": "Jan 1, 2016",
+        "old_club": "Barcelona B",
+        "new_club": "Benfica",
+        "market_value": "€2.00m",
+        "transfer_fee": "€2.10m"
+      },
+      {
+        "season": "12/13",
+        "date": "Jul 1, 2012",
+        "old_club": "Barça U19",
+        "new_club": "Barcelona B",
+        "market_value": "€100k",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "11/12",
+        "date": "Jul 1, 2011",
+        "old_club": "Barça U16",
+        "new_club": "Barça U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "09/10",
+        "date": "Jul 1, 2009",
+        "old_club": "Barça Youth",
+        "new_club": "Barça U16",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "08/09",
+        "date": "Jul 1, 2008",
+        "old_club": "Valencia CF You",
+        "new_club": "Barça Youth",
+        "market_value": "-",
+        "transfer_fee": "?"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "European champion",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Spain"
+        ]
+      },
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Spain"
+        ]
+      },
+      {
+        "title": "German Champion",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "Portuguese champion",
+        "years": [
+          "22/23",
+          "18/19",
+          "16/17",
+          "15/16"
+        ],
+        "clubs": [
+          "SL Benfica",
+          "SL Benfica",
+          "SL Benfica",
+          "SL Benfica"
+        ]
+      },
+      {
+        "title": "German cup winner",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "Portuguese league cup winner",
+        "years": [
+          "15/16"
+        ],
+        "clubs": [
+          "SL Benfica"
+        ]
+      },
+      {
+        "title": "German Super Cup winner",
+        "years": [
+          "24/25"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "Portuguese cup winner",
+        "years": [
+          "2017"
+        ],
+        "clubs": [
+          "SL Benfica"
+        ]
+      },
+      {
+        "title": "Portuguese Super Cup winner",
+        "years": [
+          "2020",
+          "2018",
+          "2017"
+        ],
+        "clubs": [
+          "SL Benfica",
+          "SL Benfica",
+          "SL Benfica"
+        ]
+      },
+      {
+        "title": "Defender of the Year",
+        "years": [
+          "22/23"
+        ],
+        "clubs": [
+          "Liga Portugal"
+        ]
+      },
+      {
+        "title": "European Under-19 participant",
+        "years": [
+          "2013"
+        ],
+        "clubs": [
+          "Spain U19"
+        ]
+      },
+      {
+        "title": "Best assist provider",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "22/23",
+          "21/22",
+          "19/20",
+          "18/19",
+          "17/18",
+          "16/17"
+        ],
+        "clubs": [
+          "SL Benfica",
+          "SL Benfica",
+          "SL Benfica",
+          "SL Benfica",
+          "SL Benfica",
+          "SL Benfica"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "23/24",
+          "20/21",
+          "19/20",
+          "18/19"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen",
+          "SL Benfica",
+          "SL Benfica",
+          "SL Benfica"
+        ]
+      },
+      {
+        "title": "Europa League runner-up",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Bayer 04 Leverkusen"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Erling Haaland",
+    "transfermarkt_profile": {
+      "date_of_birth": "Jul 21, 2000",
+      "place_of_birth": "Leeds",
+      "height": "1,95 m",
+      "citizenship": [
+        "Norway"
+      ],
+      "position": "Attack - Centre-Forward",
+      "foot": "left",
+      "player_agent": "Rafaela Pimenta",
+      "current_club": " Manchester City",
+      "joined": "Jul 1, 2022",
+      "contract_expires": "Jun 30, 2034",
+      "last_contract_extension": "Jan 17, 2025",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "22/23",
+        "date": "Jul 1, 2022",
+        "old_club": "Bor. Dortmund",
+        "new_club": "Man City",
+        "market_value": "€150.00m",
+        "transfer_fee": "€60.00m"
+      },
+      {
+        "season": "19/20",
+        "date": "Jan 1, 2020",
+        "old_club": "RB Salzburg",
+        "new_club": "Bor. Dortmund",
+        "market_value": "€45.00m",
+        "transfer_fee": "€20.00m"
+      },
+      {
+        "season": "18/19",
+        "date": "Jan 1, 2019",
+        "old_club": "Molde FK",
+        "new_club": "RB Salzburg",
+        "market_value": "€5.00m",
+        "transfer_fee": "€8.00m"
+      },
+      {
+        "season": "16/17",
+        "date": "Feb 1, 2017",
+        "old_club": "Bryne",
+        "new_club": "Molde FK",
+        "market_value": "€200k",
+        "transfer_fee": "€100k"
+      },
+      {
+        "season": "15/16",
+        "date": "Sep 8, 2015",
+        "old_club": "Bryne FK Yth.",
+        "new_club": "Bryne",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Phil Foden",
+    "transfermarkt_profile": {
+      "date_of_birth": "May 28, 2000",
+      "place_of_birth": "Stockport",
+      "height": "1,71 m",
+      "citizenship": [
+        "England"
+      ],
+      "position": "Attack - Right Winger",
+      "foot": "left",
+      "current_club": " Manchester City",
+      "joined": "Jul 1, 2017",
+      "contract_expires": "Jun 30, 2027",
+      "last_contract_extension": "Oct 14, 2022",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "17/18",
+        "date": "Jul 1, 2017",
+        "old_club": "Man City U18",
+        "new_club": "Man City",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "16/17",
+        "date": "Jul 1, 2016",
+        "old_club": "Man City Youth",
+        "new_club": "Man City U18",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Rodri",
+    "transfermarkt_profile": {
+      "full_name": "Rodrigo Hernández Cascante",
+      "date_of_birth": "Jun 22, 1996",
+      "place_of_birth": "Madrid",
+      "height": "1,91 m",
+      "citizenship": [
+        "Spain"
+      ],
+      "position": "Midfield - Defensive Midfield",
+      "foot": "right",
+      "player_agent": "Pablo Barquero",
+      "current_club": " Manchester City",
+      "joined": "Jul 4, 2019",
+      "contract_expires": "Jun 30, 2027",
+      "last_contract_extension": "Jul 12, 2022",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "19/20",
+        "date": "Jul 4, 2019",
+        "old_club": "Atlético Madrid",
+        "new_club": "Man City",
+        "market_value": "€80.00m",
+        "transfer_fee": "€70.00m"
+      },
+      {
+        "season": "18/19",
+        "date": "Jul 1, 2018",
+        "old_club": "Villarreal",
+        "new_club": "Atlético Madrid",
+        "market_value": "€25.00m",
+        "transfer_fee": "€20.00m"
+      },
+      {
+        "season": "16/17",
+        "date": "Jul 1, 2016",
+        "old_club": "Villarreal CF B",
+        "new_club": "Villarreal",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "15/16",
+        "date": "Jul 1, 2015",
+        "old_club": "Villarreal U19",
+        "new_club": "Villarreal CF B",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "13/14",
+        "date": "Jul 1, 2013",
+        "old_club": "Atl. Madrid U17",
+        "new_club": "Villarreal U19",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "12/13",
+        "date": "Jul 1, 2012",
+        "old_club": "Atlético Yth.",
+        "new_club": "Atl. Madrid U17",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "07/08",
+        "date": "Jul 1, 2007",
+        "old_club": "Majad. Youth",
+        "new_club": "Atlético Yth.",
+        "market_value": "-",
+        "transfer_fee": "€1.50m"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Rúben Dias",
+    "transfermarkt_profile": {
+      "date_of_birth": "May 14, 1997",
+      "place_of_birth": "Amadora",
+      "height": "1,87 m",
+      "citizenship": [
+        "Portugal"
+      ],
+      "position": "Defender - Centre-Back",
+      "foot": "right",
+      "player_agent": "Gestifute",
+      "current_club": " Manchester City",
+      "joined": "Sep 29, 2020",
+      "contract_expires": "Jun 30, 2027",
+      "last_contract_extension": "Aug 30, 2021",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "20/21",
+        "date": "Sep 29, 2020",
+        "old_club": "Benfica",
+        "new_club": "Man City",
+        "market_value": "€35.00m",
+        "transfer_fee": "€71.60m"
+      },
+      {
+        "season": "17/18",
+        "date": "Jul 1, 2017",
+        "old_club": "Benfica B",
+        "new_club": "Benfica",
+        "market_value": "€1.00m",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "15/16",
+        "date": "Jul 1, 2015",
+        "old_club": "Benfica U19",
+        "new_club": "Benfica B",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "14/15",
+        "date": "Jul 1, 2014",
+        "old_club": "Benfica U17",
+        "new_club": "Benfica U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "12/13",
+        "date": "Jul 1, 2012",
+        "old_club": "Benfica U15",
+        "new_club": "Benfica U17",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "10/11",
+        "date": "Jul 1, 2010",
+        "old_club": "Benfica Yth",
+        "new_club": "Benfica U15",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "08/09",
+        "date": "Jul 1, 2008",
+        "old_club": "Estrela A. F",
+        "new_club": "Benfica Yth",
+        "market_value": "-",
+        "transfer_fee": "?"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "Champions League winner",
+        "years": [
+          "22/23"
+        ],
+        "clubs": [
+          "Manchester City"
+        ]
+      },
+      {
+        "title": "FIFA Club World Cup winner",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Manchester City"
+        ]
+      },
+      {
+        "title": "World Cup participant",
+        "years": [
+          "2022",
+          "2018"
+        ],
+        "clubs": [
+          "Portugal",
+          "Portugal"
+        ]
+      },
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024",
+          "2021"
+        ],
+        "clubs": [
+          "Portugal",
+          "Portugal"
+        ]
+      },
+      {
+        "title": "English Champion",
+        "years": [
+          "23/24",
+          "22/23",
+          "21/22",
+          "20/21"
+        ],
+        "clubs": [
+          "Manchester City",
+          "Manchester City",
+          "Manchester City",
+          "Manchester City"
+        ]
+      },
+      {
+        "title": "Portuguese champion",
+        "years": [
+          "18/19"
+        ],
+        "clubs": [
+          "SL Benfica"
+        ]
+      },
+      {
+        "title": "English FA Cup winner",
+        "years": [
+          "2023"
+        ],
+        "clubs": [
+          "Manchester City"
+        ]
+      },
+      {
+        "title": "English League Cup winner",
+        "years": [
+          "2021"
+        ],
+        "clubs": [
+          "Manchester City"
+        ]
+      },
+      {
+        "title": "English Super Cup winner",
+        "years": [
+          "24/25"
+        ],
+        "clubs": [
+          "Manchester City"
+        ]
+      },
+      {
+        "title": "Winner UEFA Nations League",
+        "years": [
+          "2019"
+        ],
+        "clubs": [
+          "UEFA Nations League Finals"
+        ]
+      },
+      {
+        "title": "Portuguese Super Cup winner",
+        "years": [
+          "2020"
+        ],
+        "clubs": [
+          "SL Benfica"
+        ]
+      },
+      {
+        "title": "Footballer of the Year",
+        "years": [
+          "2021"
+        ],
+        "clubs": [
+          "England"
+        ]
+      },
+      {
+        "title": "Defender of the Year",
+        "years": [
+          "20/21"
+        ],
+        "clubs": [
+          "Manchester City"
+        ]
+      },
+      {
+        "title": "European Under-19 participant",
+        "years": [
+          "2016"
+        ],
+        "clubs": [
+          "Portugal U19"
+        ]
+      },
+      {
+        "title": "Under-20 World Cup participant",
+        "years": [
+          "2017"
+        ],
+        "clubs": [
+          "Portugal U20"
+        ]
+      },
+      {
+        "title": "Uefa Supercup winner",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Manchester City"
+        ]
+      },
+      {
+        "title": "Euro Under-17 participant",
+        "years": [
+          "2014"
+        ],
+        "clubs": [
+          "Portugal U17"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "23/24",
+          "22/23",
+          "21/22",
+          "20/21",
+          "19/20",
+          "18/19",
+          "17/18",
+          "15/16"
+        ],
+        "clubs": [
+          "Manchester City",
+          "Manchester City",
+          "Manchester City",
+          "Manchester City",
+          "SL Benfica",
+          "SL Benfica",
+          "SL Benfica",
+          "SL Benfica"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "19/20",
+          "18/19"
+        ],
+        "clubs": [
+          "SL Benfica",
+          "SL Benfica"
+        ]
+      },
+      {
+        "title": "FIFA Club World Cup participant",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Manchester City"
+        ]
+      },
+      {
+        "title": "Player of the Year",
+        "years": [
+          "20/21"
+        ],
+        "clubs": [
+          "Manchester City"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Kylian Mbappé",
+    "transfermarkt_profile": {
+      "date_of_birth": "Dec 20, 1998",
+      "place_of_birth": "Paris",
+      "height": "1,78 m",
+      "citizenship": [
+        "France",
+        "Cameroon"
+      ],
+      "position": "Attack - Centre-Forward",
+      "foot": "right",
+      "player_agent": "Relatives",
+      "current_club": " Real Madrid",
+      "joined": "Jul 1, 2024",
+      "contract_expires": "Jun 30, 2029",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "24/25",
+        "date": "Jul 1, 2024",
+        "old_club": "Paris SG",
+        "new_club": "Real Madrid",
+        "market_value": "€180.00m",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "18/19",
+        "date": "Jul 1, 2018",
+        "old_club": "Monaco",
+        "new_club": "Paris SG",
+        "market_value": "€120.00m",
+        "transfer_fee": "€180.00m"
+      },
+      {
+        "season": "17/18",
+        "date": "Jun 30, 2018",
+        "old_club": "Paris SG",
+        "new_club": "Monaco",
+        "market_value": "€120.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "17/18",
+        "date": "Aug 31, 2017",
+        "old_club": "Monaco",
+        "new_club": "Paris SG",
+        "market_value": "€35.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "15/16",
+        "date": "Jan 1, 2016",
+        "old_club": "Monaco U19",
+        "new_club": "Monaco",
+        "market_value": "€50k",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "15/16",
+        "date": "Jul 1, 2015",
+        "old_club": "Monaco Youth",
+        "new_club": "Monaco U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "13/14",
+        "date": "Jul 1, 2013",
+        "old_club": "Clairef. Yth.",
+        "new_club": "Monaco Youth",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "11/12",
+        "date": "Jul 1, 2011",
+        "old_club": "AS Bondy Yth.",
+        "new_club": "Clairef. Yth.",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Vitinha",
+    "transfermarkt_profile": {
+      "full_name": "Vítor Machado Ferreira",
+      "date_of_birth": "Feb 13, 2000",
+      "place_of_birth": "Vila das Aves",
+      "height": "1,72 m",
+      "citizenship": [
+        "Portugal"
+      ],
+      "position": "Midfield - Central Midfield",
+      "foot": "right",
+      "player_agent": "Gestifute",
+      "current_club": " Paris Saint-Germain",
+      "joined": "Jul 1, 2022",
+      "contract_expires": "Jun 30, 2029",
+      "last_contract_extension": "Feb 7, 2025",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "22/23",
+        "date": "Jul 1, 2022",
+        "old_club": "FC Porto",
+        "new_club": "Paris SG",
+        "market_value": "€30.00m",
+        "transfer_fee": "€41.50m"
+      },
+      {
+        "season": "20/21",
+        "date": "Jun 30, 2021",
+        "old_club": "Wolves",
+        "new_club": "FC Porto",
+        "market_value": "€7.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "20/21",
+        "date": "Sep 10, 2020",
+        "old_club": "FC Porto",
+        "new_club": "Wolves",
+        "market_value": "€5.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "19/20",
+        "date": "Jan 9, 2020",
+        "old_club": "FC Porto B",
+        "new_club": "FC Porto",
+        "market_value": "€1.50m",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "19/20",
+        "date": "Jul 1, 2019",
+        "old_club": "FC Porto U19",
+        "new_club": "FC Porto B",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "17/18",
+        "date": "Jul 1, 2017",
+        "old_club": "FC Porto U17",
+        "new_club": "FC Porto U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "15/16",
+        "date": "Jun 30, 2016",
+        "old_club": "Padroense U17",
+        "new_club": "FC Porto U17",
+        "market_value": "-",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "15/16",
+        "date": "Aug 1, 2015",
+        "old_club": "FC Porto U17",
+        "new_club": "Padroense U17",
+        "market_value": "-",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "15/16",
+        "date": "Jul 1, 2015",
+        "old_club": "FC Porto U15",
+        "new_club": "FC Porto U17",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "13/14",
+        "date": "Jul 1, 2013",
+        "old_club": "FC Porto Youth",
+        "new_club": "FC Porto U15",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "World Cup participant",
+        "years": [
+          "2022"
+        ],
+        "clubs": [
+          "Portugal"
+        ]
+      },
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024"
+        ],
+        "clubs": [
+          "Portugal"
+        ]
+      },
+      {
+        "title": "French champion",
+        "years": [
+          "24/25",
+          "23/24",
+          "22/23"
+        ],
+        "clubs": [
+          "Paris Saint-Germain",
+          "Paris Saint-Germain",
+          "Paris Saint-Germain"
+        ]
+      },
+      {
+        "title": "Portuguese champion",
+        "years": [
+          "21/22",
+          "19/20"
+        ],
+        "clubs": [
+          "FC Porto",
+          "FC Porto"
+        ]
+      },
+      {
+        "title": "French cup winner",
+        "years": [
+          "23/24"
+        ],
+        "clubs": [
+          "Paris Saint-Germain"
+        ]
+      },
+      {
+        "title": "French Super Cup winner",
+        "years": [
+          "24/25",
+          "23/24",
+          "22/23"
+        ],
+        "clubs": [
+          "Paris Saint-Germain",
+          "Paris Saint-Germain",
+          "Paris Saint-Germain"
+        ]
+      },
+      {
+        "title": "Best young player",
+        "years": [
+          "2022"
+        ],
+        "clubs": [
+          "Liga Portugal"
+        ]
+      },
+      {
+        "title": "Euro Under-21 runner-up",
+        "years": [
+          "2021"
+        ],
+        "clubs": [
+          "Portugal U21"
+        ]
+      },
+      {
+        "title": "UEFA Youth League Winner",
+        "years": [
+          "18/19"
+        ],
+        "clubs": [
+          "UEFA Youth League"
+        ]
+      },
+      {
+        "title": "Portuguese cup winner",
+        "years": [
+          "2022",
+          "2020"
+        ],
+        "clubs": [
+          "FC Porto",
+          "FC Porto"
+        ]
+      },
+      {
+        "title": "Midfielder of the Year",
+        "years": [
+          "21/22"
+        ],
+        "clubs": [
+          "Liga Portugal"
+        ]
+      },
+      {
+        "title": "European Under-19 participant",
+        "years": [
+          "2020"
+        ],
+        "clubs": [
+          "Portugal U19"
+        ]
+      },
+      {
+        "title": "European Under-21 participant",
+        "years": [
+          "2021"
+        ],
+        "clubs": [
+          "Portugal U21"
+        ]
+      },
+      {
+        "title": "Torneio Internacional Algarve U17",
+        "years": [
+          "2017"
+        ],
+        "clubs": [
+          "U17 Algarve Tournament"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "23/24",
+          "22/23",
+          "21/22"
+        ],
+        "clubs": [
+          "Paris Saint-Germain",
+          "Paris Saint-Germain",
+          "FC Porto"
+        ]
+      },
+      {
+        "title": "Europa League participant",
+        "years": [
+          "21/22",
+          "19/20"
+        ],
+        "clubs": [
+          "FC Porto",
+          "FC Porto"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Dani Olmo",
+    "transfermarkt_profile": {
+      "date_of_birth": "May 7, 1998",
+      "place_of_birth": "Terrassa",
+      "height": "1,79 m",
+      "citizenship": [
+        "Spain"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "foot": "right",
+      "player_agent": "Niagara Sports",
+      "current_club": " FC Barcelona",
+      "joined": "Aug 9, 2024",
+      "contract_expires": "Jun 30, 2030",
+      "outfitter": "adidas"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "24/25",
+        "date": "Aug 9, 2024",
+        "old_club": "RB Leipzig",
+        "new_club": "Barcelona",
+        "market_value": "€60.00m",
+        "transfer_fee": "€55.00m"
+      },
+      {
+        "season": "19/20",
+        "date": "Jan 25, 2020",
+        "old_club": "Dinamo Zagreb",
+        "new_club": "RB Leipzig",
+        "market_value": "€35.00m",
+        "transfer_fee": "€34.20m"
+      },
+      {
+        "season": "14/15",
+        "date": "Jan 23, 2015",
+        "old_club": "Din. Zagreb II",
+        "new_club": "Dinamo Zagreb",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "14/15",
+        "date": "Jul 31, 2014",
+        "old_club": "Barça U16",
+        "new_club": "Din. Zagreb II",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "13/14",
+        "date": "Jul 1, 2013",
+        "old_club": "Barça Youth",
+        "new_club": "Barça U16",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "07/08",
+        "date": "Jul 1, 2007",
+        "old_club": "Espanyol Youth",
+        "new_club": "Barça Youth",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Antonio Rüdiger",
+    "transfermarkt_profile": {
+      "date_of_birth": "Mar 3, 1993",
+      "place_of_birth": "Berlin",
+      "height": "1,90 m",
+      "citizenship": [
+        "Germany",
+        "Sierra",
+        "Leone"
+      ],
+      "position": "Defender - Centre-Back",
+      "foot": "right",
+      "player_agent": "HCM Sports",
+      "current_club": " Real Madrid",
+      "joined": "Jul 1, 2022",
+      "contract_expires": "Jun 30, 2026",
+      "outfitter": "Under Armour"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "22/23",
+        "date": "Jul 1, 2022",
+        "old_club": "Chelsea",
+        "new_club": "Real Madrid",
+        "market_value": "€40.00m",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "17/18",
+        "date": "Jul 9, 2017",
+        "old_club": "AS Roma",
+        "new_club": "Chelsea",
+        "market_value": "€25.00m",
+        "transfer_fee": "€35.00m"
+      },
+      {
+        "season": "16/17",
+        "date": "Jul 1, 2016",
+        "old_club": "VfB Stuttgart",
+        "new_club": "AS Roma",
+        "market_value": "€12.00m",
+        "transfer_fee": "€9.00m"
+      },
+      {
+        "season": "15/16",
+        "date": "Jun 30, 2016",
+        "old_club": "AS Roma",
+        "new_club": "VfB Stuttgart",
+        "market_value": "€12.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "15/16",
+        "date": "Aug 19, 2015",
+        "old_club": "VfB Stuttgart",
+        "new_club": "AS Roma",
+        "market_value": "€10.00m",
+        "transfer_fee": "Loan fee:€4.00m"
+      },
+      {
+        "season": "12/13",
+        "date": "Jul 1, 2012",
+        "old_club": "Stuttgart II",
+        "new_club": "VfB Stuttgart",
+        "market_value": "€500k",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "11/12",
+        "date": "Jul 1, 2011",
+        "old_club": "Stuttgart U19",
+        "new_club": "Stuttgart II",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "10/11",
+        "date": "Feb 1, 2011",
+        "old_club": "B. Dortmund U19",
+        "new_club": "Stuttgart U19",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "10/11",
+        "date": "Jul 1, 2010",
+        "old_club": "B. Dortmund U17",
+        "new_club": "B. Dortmund U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "08/09",
+        "date": "Jul 1, 2008",
+        "old_club": "Zehlendorf Yth.",
+        "new_club": "B. Dortmund U17",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "06/07",
+        "date": "Jul 1, 2006",
+        "old_club": "Neuk. SF Yth.",
+        "new_club": "Zehlendorf Yth.",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "05/06",
+        "date": "Jul 1, 2005",
+        "old_club": "Tasmania Yth.",
+        "new_club": "Neuk. SF Yth.",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      },
+      {
+        "season": "02/03",
+        "date": "Jul 1, 2002",
+        "old_club": "Sperber Yth.",
+        "new_club": "Tasmania Yth.",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Daniel Carvajal",
+    "transfermarkt_profile": {
+      "date_of_birth": "Jan 11, 1992",
+      "place_of_birth": "Leganés",
+      "height": "1,73 m",
+      "citizenship": [
+        "Spain"
+      ],
+      "position": "Defender - Right-Back",
+      "foot": "right",
+      "player_agent": "Be Loyal by Ginés",
+      "current_club": " Real Madrid",
+      "joined": "Jul 1, 2013",
+      "contract_expires": "Jun 30, 2026",
+      "last_contract_extension": "Oct 6, 2024",
+      "outfitter": "Puma"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "13/14",
+        "date": "Jul 1, 2013",
+        "old_club": "B. Leverkusen",
+        "new_club": "Real Madrid",
+        "market_value": "€10.00m",
+        "transfer_fee": "€6.50m"
+      },
+      {
+        "season": "12/13",
+        "date": "Jul 11, 2012",
+        "old_club": "RM Castilla",
+        "new_club": "B. Leverkusen",
+        "market_value": "-",
+        "transfer_fee": "€5.00m"
+      },
+      {
+        "season": "10/11",
+        "date": "Jul 1, 2010",
+        "old_club": "Real Madrid U19",
+        "new_club": "RM Castilla",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "09/10",
+        "date": "Jul 1, 2009",
+        "old_club": "Real Madrid U18",
+        "new_club": "Real Madrid U19",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "08/09",
+        "date": "Jul 1, 2008",
+        "old_club": "R.Madrid Yth.",
+        "new_club": "Real Madrid U18",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Federico Valverde",
+    "transfermarkt_profile": {
+      "date_of_birth": "Jul 22, 1998",
+      "place_of_birth": "Montevideo",
+      "height": "1,82 m",
+      "citizenship": [
+        "Uruguay",
+        "Spain"
+      ],
+      "position": "Midfield - Central Midfield",
+      "foot": "right",
+      "player_agent": "Wasserman",
+      "current_club": " Real Madrid",
+      "joined": "Jul 1, 2018",
+      "contract_expires": "Jun 30, 2029",
+      "last_contract_extension": "Nov 9, 2023",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "18/19",
+        "date": "Jul 1, 2018",
+        "old_club": "RM Castilla",
+        "new_club": "Real Madrid",
+        "market_value": "€6.00m",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "17/18",
+        "date": "Jun 30, 2018",
+        "old_club": "Dep. La Coruña",
+        "new_club": "RM Castilla",
+        "market_value": "€6.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "17/18",
+        "date": "Jul 1, 2017",
+        "old_club": "RM Castilla",
+        "new_club": "Dep. La Coruña",
+        "market_value": "€3.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "16/17",
+        "date": "Jul 22, 2016",
+        "old_club": "Peñarol",
+        "new_club": "RM Castilla",
+        "market_value": "€450k",
+        "transfer_fee": "€5.00m"
+      },
+      {
+        "season": "14/15",
+        "date": "May 19, 2015",
+        "old_club": "CA Peñarol U19",
+        "new_club": "Peñarol",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Jude Bellingham",
+    "transfermarkt_profile": {
+      "date_of_birth": "Jun 29, 2003",
+      "place_of_birth": "Stourbridge",
+      "height": "1,86 m",
+      "citizenship": [
+        "England",
+        "Ireland"
+      ],
+      "position": "Midfield - Attacking Midfield",
+      "foot": "right",
+      "current_club": " Real Madrid",
+      "joined": "Jul 1, 2023",
+      "contract_expires": "Jun 30, 2029",
+      "outfitter": "adidas"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "23/24",
+        "date": "Jul 1, 2023",
+        "old_club": "Bor. Dortmund",
+        "new_club": "Real Madrid",
+        "market_value": "€120.00m",
+        "transfer_fee": "€113.00m"
+      },
+      {
+        "season": "20/21",
+        "date": "Jul 23, 2020",
+        "old_club": "Birmingham",
+        "new_club": "Bor. Dortmund",
+        "market_value": "€11.00m",
+        "transfer_fee": "€30.15m"
+      },
+      {
+        "season": "19/20",
+        "date": "Jul 1, 2019",
+        "old_club": "Birmingham U18",
+        "new_club": "Birmingham",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": []
+  },
+  {
+    "player": "Toni Kroos",
+    "transfermarkt_profile": {
+      "date_of_birth": "Jan 4, 1990",
+      "place_of_birth": "Greifswald",
+      "height": "1,83 m",
+      "citizenship": [
+        "Germany"
+      ],
+      "position": "Midfield - Central Midfield",
+      "foot": "right",
+      "player_agent": "Sports360 GmbH",
+      "current_club": "",
+      "joined": "Jul 6, 2024",
+      "contract_expires": "-",
+      "outfitter": "adidas"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "24/25",
+        "date": "Jul 6, 2024",
+        "old_club": "Real Madrid",
+        "new_club": "Retired",
+        "market_value": "€10.00m",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "14/15",
+        "date": "Jul 17, 2014",
+        "old_club": "Bayern Munich",
+        "new_club": "Real Madrid",
+        "market_value": "€42.00m",
+        "transfer_fee": "€25.00m"
+      },
+      {
+        "season": "09/10",
+        "date": "Jun 30, 2010",
+        "old_club": "B. Leverkusen",
+        "new_club": "Bayern Munich",
+        "market_value": "€12.00m",
+        "transfer_fee": "End of loan"
+      },
+      {
+        "season": "08/09",
+        "date": "Jan 31, 2009",
+        "old_club": "Bayern Munich",
+        "new_club": "B. Leverkusen",
+        "market_value": "€5.00m",
+        "transfer_fee": "loan transfer"
+      },
+      {
+        "season": "07/08",
+        "date": "Jul 1, 2007",
+        "old_club": "FC Bayern U19",
+        "new_club": "Bayern Munich",
+        "market_value": "€100k",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "06/07",
+        "date": "Jul 1, 2006",
+        "old_club": "H. Rostock U17",
+        "new_club": "FC Bayern U19",
+        "market_value": "-",
+        "transfer_fee": "€2.30m"
+      },
+      {
+        "season": "04/05",
+        "date": "Jul 1, 2004",
+        "old_club": "H. Rostock Yth.",
+        "new_club": "H. Rostock U17",
+        "market_value": "-",
+        "transfer_fee": "-"
+      },
+      {
+        "season": "02/03",
+        "date": "Jul 1, 2002",
+        "old_club": "Greifs. SC Yth.",
+        "new_club": "H. Rostock Yth.",
+        "market_value": "-",
+        "transfer_fee": "free transfer"
+      }
+    ],
+    "transfermarkt_awards": [
+      {
+        "title": "World Cup winner",
+        "years": [
+          "2014"
+        ],
+        "clubs": [
+          "Germany"
+        ]
+      },
+      {
+        "title": "Champions League winner",
+        "years": [
+          "23/24",
+          "21/22",
+          "17/18",
+          "16/17",
+          "15/16",
+          "12/13"
+        ],
+        "clubs": [
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "FIFA Club World Cup winner",
+        "years": [
+          "2023",
+          "2019",
+          "2018",
+          "2017",
+          "2015",
+          "2014"
+        ],
+        "clubs": [
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "Euro participant",
+        "years": [
+          "2024",
+          "2021",
+          "2016",
+          "2012"
+        ],
+        "clubs": [
+          "Germany",
+          "Germany",
+          "Germany",
+          "Germany"
+        ]
+      },
+      {
+        "title": "World Cup participant",
+        "years": [
+          "2018",
+          "2014",
+          "2010"
+        ],
+        "clubs": [
+          "Germany",
+          "Germany",
+          "Germany"
+        ]
+      },
+      {
+        "title": "Spanish champion",
+        "years": [
+          "23/24",
+          "21/22",
+          "19/20",
+          "16/17"
+        ],
+        "clubs": [
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid"
+        ]
+      },
+      {
+        "title": "German Champion",
+        "years": [
+          "13/14",
+          "12/13",
+          "07/08"
+        ],
+        "clubs": [
+          "Bayern Munich",
+          "Bayern Munich",
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "German cup winner",
+        "years": [
+          "13/14",
+          "12/13",
+          "07/08"
+        ],
+        "clubs": [
+          "Bayern Munich",
+          "Bayern Munich",
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "German Super Cup winner",
+        "years": [
+          "12/13"
+        ],
+        "clubs": [
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "German cup runner-up",
+        "years": [
+          "11/12",
+          "08/09"
+        ],
+        "clubs": [
+          "Bayern Munich",
+          "Bayer 04 Leverkusen"
+        ]
+      },
+      {
+        "title": "Champions League runner-up",
+        "years": [
+          "11/12"
+        ],
+        "clubs": [
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "German Bundesliga runner-up",
+        "years": [
+          "11/12",
+          "08/09"
+        ],
+        "clubs": [
+          "Bayern Munich",
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "Footballer of the Year",
+        "years": [
+          "2018"
+        ],
+        "clubs": [
+          "Germany"
+        ]
+      },
+      {
+        "title": "Midfielder of the Year",
+        "years": [
+          "15/16"
+        ],
+        "clubs": [
+          "Germany"
+        ]
+      },
+      {
+        "title": "Player of the Tournament",
+        "years": [
+          "05/06"
+        ],
+        "clubs": [
+          "U17-Weltmeisterschaft 2007"
+        ]
+      },
+      {
+        "title": "World Cup third place",
+        "years": [
+          "2010"
+        ],
+        "clubs": [
+          "Germany"
+        ]
+      },
+      {
+        "title": "Fritz Walter Golden medalist",
+        "years": [
+          "2008"
+        ],
+        "clubs": [
+          "FC Bayern Munich U19"
+        ]
+      },
+      {
+        "title": "Under-17 World Cup participant",
+        "years": [
+          "2008",
+          "2007"
+        ],
+        "clubs": [
+          "Germany U17",
+          "Germany U17"
+        ]
+      },
+      {
+        "title": "Uefa Supercup winner",
+        "years": [
+          "22/23",
+          "17/18",
+          "16/17",
+          "14/15",
+          "13/14"
+        ],
+        "clubs": [
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "Euro Under-17 participant",
+        "years": [
+          "2007",
+          "2006"
+        ],
+        "clubs": [
+          "Germany U17",
+          "Germany U17"
+        ]
+      },
+      {
+        "title": "German Under-19 Bundesliga South/South-west champion",
+        "years": [
+          "06/07"
+        ],
+        "clubs": [
+          "FC Bayern Munich U19"
+        ]
+      },
+      {
+        "title": "Spanish cup winner",
+        "years": [
+          "22/23"
+        ],
+        "clubs": [
+          "Real Madrid"
+        ]
+      },
+      {
+        "title": "Spanish Super Cup winner",
+        "years": [
+          "23/24",
+          "21/22",
+          "19/20",
+          "17/18"
+        ],
+        "clubs": [
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid"
+        ]
+      },
+      {
+        "title": "Torneio Internacional Algarve U17",
+        "years": [
+          "2007"
+        ],
+        "clubs": [
+          "U17 Algarve Tournament"
+        ]
+      },
+      {
+        "title": "Champions League participant",
+        "years": [
+          "23/24",
+          "22/23",
+          "21/22",
+          "20/21",
+          "19/20",
+          "18/19",
+          "17/18",
+          "16/17",
+          "15/16",
+          "14/15",
+          "13/14",
+          "12/13",
+          "11/12",
+          "10/11",
+          "08/09"
+        ],
+        "clubs": [
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Bayern Munich",
+          "Bayern Munich",
+          "Bayern Munich",
+          "Bayern Munich",
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "FIFA Club World Cup participant",
+        "years": [
+          "2023",
+          "2019",
+          "2018",
+          "2017",
+          "2015",
+          "2014"
+        ],
+        "clubs": [
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Real Madrid",
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "Uefa Cup participant",
+        "years": [
+          "07/08"
+        ],
+        "clubs": [
+          "Bayern Munich"
+        ]
+      },
+      {
+        "title": "Top goal scorer",
+        "years": [
+          "06/07"
+        ],
+        "clubs": [
+          "U17-Europameisterschaft 2007"
+        ]
+      }
+    ]
+  },
+  {
+    "player": "Vinicius Júnior",
+    "transfermarkt_profile": {
+      "full_name": "Vinicius José Paixão de Oliveira Junior",
+      "date_of_birth": "Jul 12, 2000",
+      "place_of_birth": "São Gonçalo",
+      "height": "1,76 m",
+      "citizenship": [
+        "Brazil",
+        "Spain"
+      ],
+      "position": "Attack - Left Winger",
+      "foot": "right",
+      "player_agent": "Roc Nation Sports",
+      "current_club": " Real Madrid",
+      "joined": "Jul 12, 2018",
+      "contract_expires": "Jun 30, 2027",
+      "last_contract_extension": "Oct 31, 2023",
+      "outfitter": "Nike"
+    },
+    "transfermarkt_transfers": [
+      {
+        "season": "18/19",
+        "date": "Jul 12, 2018",
+        "old_club": "Flamengo",
+        "new_club": "Real Madrid",
+        "market_value": "€35.00m",
+        "transfer_fee": "€45.00m"
+      },
+      {
+        "season": "16/17",
+        "date": "May 8, 2017",
+        "old_club": "Flamengo U20",
+        "new_club": "Flamengo",
+        "market_value": "-",
+        "transfer_fee": "-"
+      }
+    ],
+    "transfermarkt_awards": []
+  }
+]
