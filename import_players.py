@@ -7,7 +7,7 @@ NEO4J_USER = "neo4j"
 NEO4J_PASSWORD = "the-golden-ball"
 
 # Wczytaj dane z JSON
-with open("players_with_stats.json", "r", encoding="utf-8") as f:
+with open("players_with_ranking_data.json", "r", encoding="utf-8") as f:
     players = json.load(f)
 
 def clear_database(tx):
@@ -27,7 +27,9 @@ def insert_player_data(tx, player):
         "club": profile.get("current_club", "").strip(),
         "joined": profile.get("joined"),
         "expires": profile.get("contract_expires"),
-        "last_ext": profile.get("last_contract_extension")
+        "last_ext": profile.get("last_contract_extension"),
+        "points": player["points"],
+        "rank": player["rank"]
     }
 
     set_clauses = [
@@ -36,7 +38,9 @@ def insert_player_data(tx, player):
         "p.current_club = $club",
         "p.joined = $joined",
         "p.contract_expires = $expires",
-        "p.last_contract_extension = $last_ext"
+        "p.last_contract_extension = $last_ext",
+        "p.points = $points",
+        "p.rank = $rank",
     ]
 
     existing_keys = set(parameters.keys())
