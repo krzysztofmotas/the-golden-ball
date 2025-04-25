@@ -20,7 +20,7 @@ def insert_player_data(tx, player):
     transfers = player.get("transfermarkt_transfers", [])
     awards = player.get("transfermarkt_awards", [])
 
-    # --- Tworzenie Playera i podstawowych info ---
+    # --- Zawodnik ---
     tx.run("""
         MERGE (p:Player {name: $name})
         SET p.date_of_birth = $dob,
@@ -37,51 +37,63 @@ def insert_player_data(tx, player):
          expires=profile.get("contract_expires"),
          last_ext=profile.get("last_contract_extension"))
 
-    # --- Relacja z PlaceOfBirth ---
+    # --- Miejsce urodzenia ---
     tx.run("""
         MERGE (c:PlaceOfBirth {name: $place})
         MERGE (p:Player {name: $name})
         MERGE (p)-[:BORN_IN]->(c)
     """, name=name, place=profile.get("place_of_birth"))
 
-    # --- Relacja z Position ---
+    # --- Pozycja na boisku ---
     tx.run("""
         MERGE (c:Position {name: $position})
         MERGE (p:Player {name: $name})
         MERGE (p)-[:PLAYS_AS]->(c)
     """, name=name, position=profile.get("position"))
 
-    # --- Relacja z Foot ---
+    # --- Preferowana noga ---
     tx.run("""
         MERGE (c:Foot {name: $foot})
         MERGE (p:Player {name: $name})
         MERGE (p)-[:PLAYS_WITH]->(c)
     """, name=name, foot=profile.get("foot"))
 
-    # --- Relacja z Outfitter ---
-    tx.run("""
-        MERGE (c:Outfitter {name: $outfitter})
-        MERGE (p:Player {name: $name})
-        MERGE (p)-[:SPONSORED_BY]->(c)
-    """, name=name, outfitter=profile.get("outfitter"))
+    # --- Sponsorzy wyposażenia ---
+    outfitter = profile.get("outfitter")
+    if outfitter:
+        tx.run("""
+            MERGE (c:Outfitter {name: $outfitter})
+            MERGE (p:Player {name: $name})
+            MERGE (p)-[:SPONSORED_BY]->(c)
+        """, name=name, outfitter=outfitter)
 
-    # --- Relacja z Agent ---
-    tx.run("""
-        MERGE (c:Agent {name: $agent})
-        MERGE (p:Player {name: $name})
-        MERGE (p)-[:REPRESENTED_BY]->(c)
-    """, name=name, agent=profile.get("player_agent"))
+    # --- Menadżerowie/agenci ---
+    agent = profile.get("player_agent")
+    if agent:
+        tx.run("""
+            MERGE (c:Agent {name: $agent})
+            MERGE (p:Player {name: $name})
+            MERGE (p)-[:REPRESENTED_BY]->(c)
+        """, name=name, agent=agent)
 
-    # --- Relacje z Citizenship ---
+    # --- Obywatelstwa  ---
     for country in profile.get("citizenship", []):
         tx.run("""
             MERGE (c:Country {name: $country})
             MERGE (p:Player {name: $name})
-            MERGE (p)-[:]->(c)
+            MERGE (p)-[:HAS_CITIZENSHIP]->(c)
         """, name=name, country=country)
 
-    # --- Relacje z Transferami ---
+    # --- Relacje z transferami ---
     for transfer in transfers:
+        old_club = transfer.get("old_club")
+        # Ujednolicenie nazw klubów dla Emiliano Martíneza:
+        # "Arsenal U21" traktujemy jako "Arsenal Res.", ponieważ w danych zawodnika występują oba,
+        # ale odnoszą się do tego samego systemu młodzieżowego. Bez tego "Arsenal U21"
+        # pozostaje bez żadnych relacji w grafie.
+        if old_club == "Arsenal U21":
+            old_club = "Arsenal Res."
+
         tx.run("""
             MERGE (p:Player {name: $name})
             MERGE (old:Club {name: $old_club})
@@ -95,12 +107,23 @@ def insert_player_data(tx, player):
         """, name=name,
              season=transfer.get("season"),
              date=transfer.get("date"),
-             old_club=transfer.get("old_club"),
+             old_club=old_club,
              new_club=transfer.get("new_club"),
              market_value=transfer.get("market_value"),
              transfer_fee=transfer.get("transfer_fee"))
 
-    # --- Relacje z Nagród (Award) ---
+    # --- Relacja łącząca zawodnika z jego pierwszym klubem ---
+    if transfers:
+        first_transfer = transfers[-1]  # Ostatni element to najstarszy transfer
+        old_club = first_transfer.get("old_club")
+        if old_club:
+            tx.run("""
+                MERGE (club:Club {name: $club})
+                MERGE (p:Player {name: $name})
+                MERGE (p)-[:STARTED_CAREER_AT]->(club)
+            """, name=name, club=old_club)
+
+    # --- Nagrody ---
     for award in awards:
         title = award.get("title")
         years = award.get("years", [])
