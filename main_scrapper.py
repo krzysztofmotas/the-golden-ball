@@ -86,7 +86,6 @@ def find_player_profile_link(player_name):
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
     }
 
-    # Wysłanie zapytania HTTP do strony wyszukiwania
     response = requests.get(search_url, headers=headers)
 
     # Sprawdzenie poprawności odpowiedzi
@@ -386,8 +385,8 @@ def scrape_and_save_players_to_json(csv_path: str, output_path: str, limit: int 
         full_name = row['player']
         team = row['team']
         age = row['age']
-        position = row['pos']
-        nation = row['nation']
+        # position = row['pos']
+        # nation = row['nation']
 
         # Poprawka dla tego gracza, rozwijamy jego imię, ponieważ Transfermarkt wskazuje na niepoprawny profil
         if full_name == "Dani Carvajal":

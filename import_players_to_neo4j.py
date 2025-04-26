@@ -15,7 +15,7 @@ def clear_database(tx):
 
 def insert_player_data(tx, player):
     name = player["player"]
-    print(name)
+    print("\t -", name)
 
     profile = player.get("transfermarkt_profile", {})
 
@@ -175,6 +175,23 @@ def insert_player_data(tx, player):
                     MERGE (p)-[:WON]->(a)
                 """, name=name, title=title, year=year)
 
+def get_database_stats(tx):
+    # Statystyki węzłów
+    node_stats = tx.run("""
+        MATCH (n)
+        RETURN labels(n) AS labels, count(*) AS count
+        ORDER BY count DESC
+    """).data()
+
+    # Statystyki relacji
+    rel_stats = tx.run("""
+        MATCH ()-[r]->()
+        RETURN type(r) AS type, count(*) AS count
+        ORDER BY count DESC
+    """).data()
+
+    return {"nodes": node_stats, "relationships": rel_stats}
+
 # --- Połączenie i import ---
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 
@@ -186,5 +203,29 @@ with driver.session() as session:
     for player in players:
         session.execute_write(insert_player_data, player)
 
+    # Pobierz statystyki
+    stats = session.execute_read(get_database_stats)
+
+    print("\nStatystyki bazy danych:")
+    print("\nWęzły:")
+    nodes_count = 0
+    for stat in stats["nodes"]:
+        labels = stat["labels"]
+        count = stat["count"]
+        nodes_count += count
+        print(f"\t- {labels[0] if labels else 'Brak etykiety'}: {count}")
+
+    print("\nCałkowita liczba węzłów:", nodes_count)
+
+    print("\nRelacje:")
+    rel_count = 0
+    for stat in stats["relationships"]:
+        rel_type = stat["type"]
+        count = stat["count"]
+        rel_count += count
+        print(f"\t- {rel_type}: {count}")
+
+    print("\nCałkowita liczba relacji:", rel_count)
+
 driver.close()
-print("Dane zaimportowane do Neo4j!")
+print("\nDane zostały pomyślnie zaimportowane do Neo4j!")
