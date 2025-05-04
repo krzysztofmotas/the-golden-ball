@@ -354,6 +354,13 @@ def convert_transfermarkt_profile_data(data):
         # Specjalne traktowanie citizenship
         if clean_key == "citizenship" and isinstance(value, str):
             parsed_list = re.findall(r'[A-Z][a-z]+', value)
+
+            # Poprawka dla Sierra Leone
+            for i in range(len(parsed_list) - 1):
+                if parsed_list[i] == "Sierra" and parsed_list[i + 1] == "Leone":
+                    parsed_list[i] = "Sierra Leone"
+                    del parsed_list[i + 1]
+                    break
             new_dict[clean_key] = parsed_list
         elif clean_key == "player_agent" and isinstance(value, str):
             # usuwa "..." lub inne śmieciowe końcówki
