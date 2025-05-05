@@ -101,7 +101,3 @@ Kylian Mbappé zdobył aż **7 nagród** przy zaledwie **2158 minutach** rozegra
 | `players_with_stats.json` | Rozszerzone dane zawodników — z sezonowymi statystykami. |
 | `players_with_ranking_data.json` | Dane zawodników uzupełnione o rankingi i wyniki Ballon d'Or 2024. |
 | `nominees.csv` | Lista nominowanych do Złotej Piłki. |
-
----
-
-Projekt zaliczeniowy przygotowany w ramach przedmiotu **Sieci semantyczne (2025)**.
