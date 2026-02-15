@@ -1,13 +1,10 @@
-// Krok 1: znajdź outfitterów, zawodników i ich nagrody
 MATCH (o:Outfitter)<-[:SPONSORED_BY]-(p:Player)-[:WON]->(a:Award)
 
-// Krok 2: agreguj dane
 WITH 
     o.name AS Outfitter,
     p.name AS Player,
     count(a) AS PlayerAwardCount
 
-// Krok 3: zagreguj dalej na poziomie outfittera
 WITH 
     Outfitter,
     collect({player: Player, awards: PlayerAwardCount}) AS PlayersAwards,

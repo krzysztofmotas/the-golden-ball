@@ -1,21 +1,21 @@
-# Analiza piłkarzy nominowanych do Złotej Piłki 2024 – grafowa baza danych
+# Analysis of Ballon d'Or 2024 Nominees - Graph Database
 
-Projekt zaliczeniowy z przedmiotu **Sieci semantyczne** — grafowa baza danych służąca do analizy piłkarzy nominowanych do Złotej Piłki 2024.
+A coursework project for **Semantic Networks** - a graph database for analyzing players nominated for the Ballon d'Or 2024.
 
-## Opis projektu
+## Project Description
 
-The Golden Ball umożliwia przeprowadzanie zapytań dotyczących:
+This project provides a comprehensive graph-based analysis system for Ballon d'Or 2024 nominees, enabling complex queries about:
 
-- kariery zawodników,
-- osiągnięć oraz zdobytych nagród,
-- statystyk sezonowych (gole, asysty, expected goals, expected assists itd.),
-- powiązań z klubami, outfitterami i sponsorami.
+- player careers,
+- achievements and awards won,
+- seasonal statistics (goals, assists, expected goals, expected assists, etc.),
+- relationships with clubs, outfitters, and sponsors.
 
-Model grafowy pozwala przeprowadzać analizy relacyjne oraz tworzyć raporty na podstawie danych.
+The graph model allows relational analysis and report generation based on the data.
 
-## Zawartość bazy danych
+## Database Contents
 
-### Typy węzłów (Nodes)
+### Node Types
 
 - Player
 - Club
@@ -27,7 +27,7 @@ Model grafowy pozwala przeprowadzać analizy relacyjne oraz tworzyć raporty na 
 - Agent
 - Award
 
-### Typy relacji (Relationships)
+### Relationship Types
 
 - BORN_IN
 - HAS_CITIZENSHIP
@@ -39,65 +39,65 @@ Model grafowy pozwala przeprowadzać analizy relacyjne oraz tworzyć raporty na 
 - TRANSFERRED
 - STARTED_CAREER_AT
 
-### Źródła danych
+### Data Sources
 
-Dane do bazy zostały pobrane za pomocą scrapingu z następujących źródeł:
+Data was collected via web scraping from the following sources:
 
-- [Kaggle - Statystyki meczowe 2023/2024](https://www.kaggle.com/datasets/willianoliveiragibin/ballon-dor-2024)
-- [Transfermarkt - dane biograficzne i transfery](https://www.transfermarkt.pl/)
-- [Wikipedia - oficjalne wyniki Ballon d'Or](https://en.wikipedia.org/wiki/2024_Ballon_d%27Or)
+- [Kaggle - Match statistics 2023/2024](https://www.kaggle.com/datasets/willianoliveiragibin/ballon-dor-2024)
+- [Transfermarkt - biographical data and transfers](https://www.transfermarkt.pl/)
+- [Wikipedia - official Ballon d'Or results](https://en.wikipedia.org/wiki/2024_Ballon_d%27Or)
 
-## Przykładowe zapytania Cypher
+## Example Cypher Queries
 
-W ramach projektu przygotowano zestaw nietrywialnych zapytań w języku Cypher, umożliwiających analizę zgromadzonych danych.
-Zapytania pozwalają m.in. na ocenę efektywności zawodników, analizę ścieżek kariery, wpływu agentów na sukcesy piłkarzy itp.
+The project includes a set of non-trivial queries in Cypher language, enabling analysis of the collected data.
+The queries allow for evaluation of player efficiency, analysis of career paths, agent influence on player success, etc.
 
-| Zapytanie                                          | Opis                                                                                                  | Plik                                               |
-| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **Wielonarodowość zawodników (spoza Europy)**      | Wyszukaj zawodników, którzy mają więcej niż jedno obywatelstwo, w tym co najmniej jedno spoza Europy. | `queries/multi_citizenship_outside_europe.cypher`  |
-| **Sponsorzy z największą liczbą nagród**           | Wypisz sponsorów, których zawodnicy zdobyli największą liczbę nagród.                                 | `queries/outfitter_awards_leaders.cypher`          |
-| **Średni wzrost zawodników wg krajów**             | Wypisz kraje, których zawodnicy mają najwyższy średni wzrost, minimalny/maksymalny oraz rozrzut.      | `queries/countries_avg_height_distribution.cypher` |
-| **Defensywny profil zawodników (mało G+A)**        | Wypisz zawodników z dużą liczbą minut, ale minimalnym udziałem w golach i asystach.                   | `queries/low_offensive_contribution.cypher`        |
-| **Najlepsi kreatorzy gry (key passes per 90)**     | Znajdź zawodników z największą liczbą kluczowych podań na 90 minut.                                   | `queries/top_key_passers.cypher`                   |
-| **TOP kompletni zawodnicy**                        | Wypisz zawodników o wszechstronnym profilu (ofensywa, kreatywność, defensywa, drybling).              | `queries/complete_players_profiles.cypher`         |
-| **Top 5 progresywnych podających**                 | Wypisz top 5 zawodników z progresywnymi podaniami i wysoką skutecznością podań.                       | `queries/top_progressive_passers.cypher`           |
-| **Lojalność i sukces — najmniej klubów + nagrody** | Wypisz zawodników, którzy zdobyli najwięcej nagród grając w najmniejszej liczbie klubów.              | `queries/loyal_award_winners.cypher`               |
-| **Underperformance względem xG + xA**              | Wypisz zawodników, których gole i asysty są niższe niż suma xG + xA.                                  | `queries/underperformance_xg_xa.cypher`            |
-| **Efektywność nagradzania w sezonie 23/24**        | Wypisz zawodników z nagrodami w 23/24 oraz liczbą minut przypadającą na nagrodę.                      | `queries/awards_efficiency_23_24.cypher`           |
+| Query                                           | Description                                                                         | File                                                 |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **Multiple citizenships (non-Europe)**          | Find players with more than one citizenship, including at least one outside Europe. | `queries/players_multiple_citizenships_non_europe.cypher`  |
+| **Outfitters with most awards**                 | List outfitters whose players won the most awards.                                  | `queries/top_outfitters_by_awards.cypher`            |
+| **Average player height by country**            | List countries whose players have the highest average height, min/max, and range.   | `queries/players_height_by_country_stats.cypher`     |
+| **Defensive profile players (low G+A)**         | List players with high minutes but minimal contribution to goals and assists.       | `queries/players_low_efficiency_high_minutes.cypher` |
+| **Top playmakers (key passes per 90)**          | Find players with the highest number of key passes per 90 minutes.                  | `queries/top_playmakers_by_key_passes_per_90.cypher` |
+| **TOP complete players**                        | List players with versatile profiles (offense, creativity, defense, dribbling).     | `queries/top_complete_players_all_aspects.cypher`    |
+| **Top 5 tempo controllers**                     | List top 5 players with progressive passes and high pass accuracy.                  | `queries/top_5_tempo_controllers.cypher`             |
+| **Loyalty and success - fewest clubs + awards** | List players who won the most awards while playing for the fewest clubs.            | `queries/loyal_winners_awards_by_clubs.cypher`       |
+| **Underperformance vs xG + xA**                 | List players whose goals and assists are lower than the sum of xG + xA.             | `queries/underperformers_xgxa_vs_real_detailed.cypher` |
+| **Awards efficiency in season 23/24**           | List players with awards in 23/24 and their minutes per award.                      | `queries/awards_efficiency_23_24.cypher`             |
 
-### Przykład wyników zapytania — efektywność nagradzania w sezonie 23/24
+### Example Query Results - Awards efficiency in season 23/24
 
-Poniżej przedstawiono przykładowe wyniki zapytania, które analizuje zawodników pod względem liczby zdobytych nagród w sezonie 23/24 w odniesieniu do liczby rozegranych minut.
-Dzięki temu możliwe jest określenie, którzy zawodnicy byli najbardziej "efektywni" — czyli zdobywali nagrody mimo stosunkowo niewielkiej liczby minut spędzonych na boisku.
+Below are example results of a query that analyzes players in terms of the number of awards won in the 23/24 season relative to the number of minutes played.
+This makes it possible to determine which players were most "efficient" - winning awards despite relatively few minutes on the pitch.
 
-**Przykładowe wyniki zapytania**:
+**Example query results**:
 
 ![awards_efficiency_23_24](queries/awards_efficiency_23_24.png)
 
-#### Interpretacja wyników — przykład Kylian Mbappé (sezon 23/24)
+#### Result Interpretation - Example: Kylian Mbappé (season 23/24)
 
-Kylian Mbappé zdobył aż **7 nagród** przy zaledwie **2158 minutach** rozegranych w sezonie. Choć liczba minut jest niższa niż u wielu innych zawodników, doskonale odzwierciedla to realną sytuację z sezonu:
+Kylian Mbappé won **7 awards** with only **2158 minutes** played in the season. Although the number of minutes is lower than many other players, it perfectly reflects the real situation from the season:
 
-* Mbappé był częściowo **odsuwany od składu PSG** z powodu decyzji o nieprzedłużeniu kontraktu oraz planowanego transferu do Realu Madryt.
-* Mimo tego, pozostawał niezwykle skuteczny i wpływowy — zdobywając prestiżowe wyróżnienia jak **Top goal scorer** czy **Player of the Year**.
-* Zapytanie w trafny sposób pokazuje zawodników, którzy **nawet przy ograniczonej liczbie minut** potrafili osiągnąć ponadprzeciętne sukcesy.
+- Mbappé was partially **sidelined from the PSG squad** due to his decision not to extend his contract and his planned transfer to Real Madrid.
+- Despite this, he remained extremely effective and influential - winning prestigious awards such as **Top goal scorer** and **Player of the Year**.
+- The query accurately shows players who **even with limited minutes** were able to achieve above-average success.
 
-## Struktura projektu
+## Project Structure
 
-### Główne skrypty
+### Main Scripts
 
-| Plik | Opis |
-|------|------|
-| `main_scrapper.py` | Główny scraper danych o zawodnikach z Transfermarkt i innych źródeł. |
-| `import_players_to_neo4j.py` | Skrypt importujący zawodników oraz ich dane do bazy Neo4j. |
-| `add_stats.py` | Dodanie sezonowych statystyk do zawodników w Neo4j. |
-| `add_rank.py` | Dodanie rankingów oraz wyników głosowania Ballon d'Or 2024 do bazy Neo4j. |
+| File                         | Description                                                            |
+| ---------------------------- | ---------------------------------------------------------------------- |
+| `main_scrapper.py`           | Main scraper for player data from Transfermarkt and other sources.     |
+| `import_players_to_neo4j.py` | Script importing players and their data into Neo4j database.           |
+| `add_stats.py`               | Adding seasonal statistics to players in Neo4j.                        |
+| `add_rank.py`                | Adding rankings and Ballon d'Or 2024 voting results to Neo4j database. |
 
-### Pliki danych (JSON / CSV)
+### Data Files (JSON / CSV)
 
-| Plik | Opis |
-|------|------|
-| `players.json` | Podstawowe dane zawodników (bio, wiek, wzrost itd.). |
-| `players_with_stats.json` | Rozszerzone dane zawodników — z sezonowymi statystykami. |
-| `players_with_ranking_data.json` | Dane zawodników uzupełnione o rankingi i wyniki Ballon d'Or 2024. |
-| `nominees.csv` | Lista nominowanych do Złotej Piłki. |
+| File                             | Description                                                          |
+| -------------------------------- | -------------------------------------------------------------------- |
+| `players.json`                   | Basic player data (bio, age, height, etc.).                          |
+| `players_with_stats.json`        | Extended player data - with seasonal statistics.                     |
+| `players_with_ranking_data.json` | Player data supplemented with rankings and Ballon d'Or 2024 results. |
+| `nominees.csv`                   | List of Ballon d'Or nominees.                                        |

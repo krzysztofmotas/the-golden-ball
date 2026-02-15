@@ -16,8 +16,8 @@ def normalize_key(dict_key):
     dict_key = dict_key.lower()
     dict_key = dict_key.replace('%', 'percent')
     dict_key = dict_key.replace('#', 'num')
-    dict_key = re.sub(r'[\s:/\-]+', '_', dict_key)   # zamienia spacje, :, /, - na _
-    dict_key = re.sub(r'__+', '_', dict_key)         # podwójne podkreślenia na pojedyncze
+    dict_key = re.sub(r'[\s:/\-]+', '_', dict_key)
+    dict_key = re.sub(r'__+', '_', dict_key)
     dict_key = dict_key.strip('_')
     return dict_key
 
@@ -33,4 +33,4 @@ for player in players_data:
 with open("players_with_stats.json", "w", encoding="utf-8") as f:
     json.dump(players_data, f, ensure_ascii=False, indent=2)
 
-print("Plik zapisany jako players_with_stats.json")
+print("File saved as players_with_stats.json")

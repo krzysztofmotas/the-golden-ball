@@ -1,12 +1,10 @@
 from neo4j import GraphDatabase
 import json
 
-# Konfiguracja połączenia
 NEO4J_URI = "bolt://localhost:7687"
 NEO4J_USER = "neo4j"
 NEO4J_PASSWORD = "the-golden-ball"
 
-# Wczytaj dane z JSON
 with open("players_with_ranking_data.json", "r", encoding="utf-8") as f:
     players = json.load(f)
 
@@ -19,7 +17,6 @@ def insert_player_data(tx, player):
 
     profile = player.get("transfermarkt_profile", {})
 
-    # --- Zawodnik ---
     parameters = {
         "name": name,
         "dob": profile.get("date_of_birth"),
@@ -45,13 +42,11 @@ def insert_player_data(tx, player):
 
     existing_keys = set(parameters.keys())
 
-    # Statystyki:
     for key, value in player.items():
         if key not in ["player", "transfermarkt_profile", "transfermarkt_transfers", "transfermarkt_awards"] and key not in existing_keys:
             if key[0].isdigit():
-                key = 'n' + key  # Dodajemy 'n' na początku
+                key = 'n' + key
 
-            # Zastępujemy '+' na 'plus' i nawiasy na '_'
             key = key.replace("+", "plus").replace("(", "_").replace(")", "_")
 
             parameters[key] = value
@@ -64,28 +59,25 @@ def insert_player_data(tx, player):
         SET {set_clause}
     """, **parameters)
 
-    # --- Miejsce urodzenia ---
     tx.run("""
         MERGE (c:PlaceOfBirth {name: $place})
         MERGE (p:Player {name: $name})
         MERGE (p)-[:BORN_IN]->(c)
     """, name=name, place=profile.get("place_of_birth"))
 
-    # --- Pozycja na boisku ---
     tx.run("""
         MERGE (c:Position {name: $position})
         MERGE (p:Player {name: $name})
         MERGE (p)-[:PLAYS_AS]->(c)
     """, name=name, position=profile.get("position"))
 
-    # --- Preferowana noga ---
     tx.run("""
         MERGE (c:Foot {name: $foot})
         MERGE (p:Player {name: $name})
         MERGE (p)-[:PLAYS_WITH]->(c)
     """, name=name, foot=profile.get("foot"))
 
-    # --- Sponsorzy wyposażenia ---
+
     outfitter = profile.get("outfitter")
     if outfitter:
         tx.run("""
@@ -94,7 +86,6 @@ def insert_player_data(tx, player):
             MERGE (p)-[:SPONSORED_BY]->(c)
         """, name=name, outfitter=outfitter)
 
-    # --- Menadżerowie/agenci ---
     agent = profile.get("player_agent")
     if agent:
         tx.run("""
@@ -103,7 +94,6 @@ def insert_player_data(tx, player):
             MERGE (p)-[:REPRESENTED_BY]->(c)
         """, name=name, agent=agent)
 
-    # --- Obywatelstwa  ---
     for country in profile.get("citizenship", []):
         tx.run("""
             MERGE (c:Country {name: $country})
@@ -111,15 +101,14 @@ def insert_player_data(tx, player):
             MERGE (p)-[:HAS_CITIZENSHIP]->(c)
         """, name=name, country=country)
 
-    # --- Relacje z transferami ---
     transfers = player.get("transfermarkt_transfers", [])
 
     for transfer in transfers:
         old_club = transfer.get("old_club")
-        # Ujednolicenie nazw klubów dla Emiliano Martíneza:
-        # "Arsenal U21" traktujemy jako "Arsenal Res.", ponieważ w danych zawodnika występują oba,
-        # ale odnoszą się do tego samego systemu młodzieżowego. Bez tego "Arsenal U21"
-        # pozostaje bez żadnych relacji w grafie.
+        # Unifying club names for Emiliano Martínez:
+        # "Arsenal U21" is treated as "Arsenal Res.", because both appear in player data,
+        # but refer to the same youth system. Without this, "Arsenal U21"
+        # remains without any relationships in the graph.
         if old_club == "Arsenal U21":
             old_club = "Arsenal Res."
 
@@ -141,9 +130,9 @@ def insert_player_data(tx, player):
              market_value=transfer.get("market_value"),
              transfer_fee=transfer.get("transfer_fee"))
 
-    # --- Relacja łącząca zawodnika z jego pierwszym klubem ---
+    # Relationship linking player to their first club
     if transfers:
-        first_transfer = transfers[-1]  # Ostatni element to najstarszy transfer
+        first_transfer = transfers[-1]
         old_club = first_transfer.get("old_club")
         if old_club:
             tx.run("""
@@ -152,7 +141,6 @@ def insert_player_data(tx, player):
                 MERGE (p)-[:STARTED_CAREER_AT]->(club)
             """, name=name, club=old_club)
 
-    # --- Nagrody ---
     awards = player.get("transfermarkt_awards", [])
 
     for award in awards:
@@ -176,14 +164,12 @@ def insert_player_data(tx, player):
                 """, name=name, title=title, year=year)
 
 def get_database_stats(tx):
-    # Statystyki węzłów
     node_stats = tx.run("""
         MATCH (n)
         RETURN labels(n) AS labels, count(*) AS count
         ORDER BY count DESC
     """).data()
 
-    # Statystyki relacji
     rel_stats = tx.run("""
         MATCH ()-[r]->()
         RETURN type(r) AS type, count(*) AS count
@@ -192,32 +178,30 @@ def get_database_stats(tx):
 
     return {"nodes": node_stats, "relationships": rel_stats}
 
-# --- Połączenie i import ---
 driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
 
 with driver.session() as session:
-    print("Czyścimy bazę danych...")
+    print("Clearing the database...")
     session.execute_write(clear_database)
-    print("Importujemy zawodników:")
+    print("Importing players:")
 
     for player in players:
         session.execute_write(insert_player_data, player)
 
-    # Pobierz statystyki
     stats = session.execute_read(get_database_stats)
 
-    print("\nStatystyki bazy danych:")
-    print("\nWęzły:")
+    print("\nDatabase statistics:")
+    print("\nNodes:")
     nodes_count = 0
     for stat in stats["nodes"]:
         labels = stat["labels"]
         count = stat["count"]
         nodes_count += count
-        print(f"\t- {labels[0] if labels else 'Brak etykiety'}: {count}")
+        print(f"\t- {labels[0] if labels else 'No label'}: {count}")
 
-    print("\nCałkowita liczba węzłów:", nodes_count)
+    print("\nTotal number of nodes:", nodes_count)
 
-    print("\nRelacje:")
+    print("\nRelationships:")
     rel_count = 0
     for stat in stats["relationships"]:
         rel_type = stat["type"]
@@ -225,7 +209,7 @@ with driver.session() as session:
         rel_count += count
         print(f"\t- {rel_type}: {count}")
 
-    print("\nCałkowita liczba relacji:", rel_count)
+    print("\nTotal number of relationships:", rel_count)
 
 driver.close()
-print("\nDane zostały pomyślnie zaimportowane do Neo4j!")
+print("\nData has been successfully imported to Neo4j!")
